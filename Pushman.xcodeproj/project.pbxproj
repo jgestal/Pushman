@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		23007D5525533D83006B1E5B /* GameViewController+Keyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23007D5425533D83006B1E5B /* GameViewController+Keyboard.swift */; };
 		230A05332147EECE007CB69F /* WorldTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 230A05322147EECE007CB69F /* WorldTableViewCell.swift */; };
 		230A053521480D81007CB69F /* FinishedLevelTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 230A053421480D81007CB69F /* FinishedLevelTableViewCell.swift */; };
 		230A053721480D96007CB69F /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 230A053621480D96007CB69F /* CustomTableViewCell.swift */; };
@@ -44,6 +45,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		23007D5125532101006B1E5B /* Pushman.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Pushman.entitlements; sourceTree = "<group>"; };
+		23007D5425533D83006B1E5B /* GameViewController+Keyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GameViewController+Keyboard.swift"; sourceTree = "<group>"; };
 		230A05322147EECE007CB69F /* WorldTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldTableViewCell.swift; sourceTree = "<group>"; };
 		230A053421480D81007CB69F /* FinishedLevelTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinishedLevelTableViewCell.swift; sourceTree = "<group>"; };
 		230A053621480D96007CB69F /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
@@ -110,6 +113,7 @@
 		23310A152136164500CA86D7 = {
 			isa = PBXGroup;
 			children = (
+				23007D5125532101006B1E5B /* Pushman.entitlements */,
 				23721FE2213D330C003C3481 /* XMLParserForLevels.playground */,
 				23310A202136164600CA86D7 /* Sokoban */,
 				23310A1F2136164600CA86D7 /* Products */,
@@ -162,6 +166,7 @@
 				23F006DC2146617800FAFF3F /* InitialViewController.swift */,
 				236B55772146E46500DB703D /* CustomViewController.swift */,
 				23310A252136164600CA86D7 /* GameViewController.swift */,
+				23007D5425533D83006B1E5B /* GameViewController+Keyboard.swift */,
 				2386FE48215006720049AE13 /* SettingsViewController.swift */,
 				23DAA6B221517276008F5EE4 /* LevelCreditsViewController.swift */,
 				231183332153B7AD00CA2EEC /* DeveloperCreditsViewController.swift */,
@@ -228,12 +233,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0940;
-				LastUpgradeCheck = 0940;
+				LastUpgradeCheck = 1210;
 				ORGANIZATIONNAME = "Juan Gestal Romani";
 				TargetAttributes = {
 					23310A1D2136164600CA86D7 = {
 						CreatedOnToolsVersion = 9.4.1;
-						LastSwiftMigration = 1000;
+						LastSwiftMigration = 1210;
 					};
 				};
 			};
@@ -302,6 +307,7 @@
 				23310A222136164600CA86D7 /* AppDelegate.swift in Sources */,
 				2393E4B1214D1E6000878DE8 /* Angle.swift in Sources */,
 				2319D758214672F5007A28C2 /* LevelMap.swift in Sources */,
+				23007D5525533D83006B1E5B /* GameViewController+Keyboard.swift in Sources */,
 				2380A696214D6D2F00D4988E /* RoundedView.swift in Sources */,
 				2393E4AF214D1E4E00878DE8 /* IJPoint.swift in Sources */,
 			);
@@ -355,6 +361,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -380,7 +387,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -415,6 +422,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -434,7 +442,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -447,17 +455,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Pushman.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = 8844D67WZE;
 				INFOPLIST_FILE = Sokoban/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = es.gestal.pushman;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SUPPORTS_MACCATALYST = YES;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -466,17 +477,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Pushman.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = 8844D67WZE;
 				INFOPLIST_FILE = Sokoban/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = es.gestal.pushman;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SUPPORTS_MACCATALYST = YES;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

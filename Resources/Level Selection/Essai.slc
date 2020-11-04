@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Essai</Title>
+  <Description>
+Novice levels realised by a novice player (Sylvie from France)
+  </Description>
+  <Email>HelloSylvie38@aol.com</Email>
+  <LevelCollection Copyright="Sylvie from France" MaxWidth="21" MaxHeight="19">
+    <Level Id="1" Width="19" Height="10">
+      <L>      #######</L>
+      <L>  #####  ...#</L>
+      <L>  #   #  # ##</L>
+      <L> ##$ $#@$# ########</L>
+      <L>## $  #$ $   $ $  #</L>
+      <L>#  $    $  $      #</L>
+      <L>#     #    #  #####</L>
+      <L># $  $###### .....#</L>
+      <L>####  #    # .....#</L>
+      <L>   ####    ########</L>
+    </Level>
+    <Level Id="2" Width="19" Height="13">
+      <L>######</L>
+      <L>#   @#      ######</L>
+      <L># $$$#      #    #</L>
+      <L>#  $ ########$   #</L>
+      <L>##$  #       $   #</L>
+      <L> #   #  ##### ####</L>
+      <L> #     $##### #</L>
+      <L> #####$ $     #</L>
+      <L>     #     $  #</L>
+      <L>  #### ###### #####</L>
+      <L>  #..... . .      #</L>
+      <L>  #.... ##        #</L>
+      <L>  #################</L>
+    </Level>
+    <Level Id="the tree" Width="19" Height="16">
+      <L>         #</L>
+      <L>        ###</L>
+      <L>       ## ##</L>
+      <L>     ### @ ###</L>
+      <L>     #  $ $  #</L>
+      <L>    ## $ $ $ ##</L>
+      <L>   ## $ $ $ $ ##</L>
+      <L>  ##   $ $ $   ##</L>
+      <L> ##  #  # #  #  ##</L>
+      <L> #       $       #</L>
+      <L>######### #########</L>
+      <L>       # ..#</L>
+      <L>       # ..#</L>
+      <L>     ### ..###</L>
+      <L>     #.......#</L>
+      <L>     #########</L>
+    </Level>
+    <Level Id="the car" Width="20" Height="10">
+      <L>      #########</L>
+      <L>    ###...$.. ##</L>
+      <L>   ##....*.*...##</L>
+      <L>######  ## # #####</L>
+      <L>#       #     $  ###</L>
+      <L># $ $   $   $ $   @#</L>
+      <L>####$ $ $ $ $ #$ ###</L>
+      <L>  ##  #########  ##</L>
+      <L>   ####       ####</L>
+      <L>    ##         ##</L>
+    </Level>
+    <Level Id="the bottle" Width="8" Height="18">
+      <L>  ####</L>
+      <L>  # @#</L>
+      <L>  #$ #</L>
+      <L>  #  #</L>
+      <L>  #$ #</L>
+      <L> ##  ##</L>
+      <L>##  $ ##</L>
+      <L>## $. ##</L>
+      <L>#  ##  #</L>
+      <L>#  .. ##</L>
+      <L># $##  #</L>
+      <L>## ..$ #</L>
+      <L>#  ##$ #</L>
+      <L>#  .. ##</L>
+      <L># $##  #</L>
+      <L># $.*  #</L>
+      <L>#  #.  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="the plane" Width="21" Height="19">
+      <L>          #</L>
+      <L>          #</L>
+      <L>          #</L>
+      <L>         ###</L>
+      <L>        ##.##</L>
+      <L>       #@#.# #</L>
+      <L>      #  #.#  #</L>
+      <L>  #  # $ #.# $ #  #</L>
+      <L>  # # $ $ .#  $ # #</L>
+      <L>  ## $  $ . $  $ ##</L>
+      <L>  # $  $$#.#$$  $ #</L>
+      <L> #.      #.#      .#</L>
+      <L>##########.##########</L>
+      <L>  #      #.#      #</L>
+      <L>         #.#</L>
+      <L>       ###.###</L>
+      <L>     #####.#####</L>
+      <L>         ###</L>
+      <L>          #</L>
+    </Level>
+    <Level Id="the fish" Width="20" Height="11">
+      <L>     ########</L>
+      <L>    #. . .   #     #</L>
+      <L>   # ######$ ##   ##</L>
+      <L>  # .$    $ ##@###.#</L>
+      <L> # $ $$    $   #  .#</L>
+      <L>#  $$ ##### $$$ ...#</L>
+      <L> #      $  $  #$...#</L>
+      <L>  #  $  $ $  ##.##.#</L>
+      <L>   # #######  ##  ##</L>
+      <L>    #. . . .  #    #</L>
+      <L>     #########</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

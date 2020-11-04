@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Zone 26</Title>
+  <Description>
+A huge collection where all levels have a floor size of 26 squares.
+Most of these levels are quite difficult!
+  </Description>
+  <LevelCollection Copyright="Dries de Clercq" MaxWidth="9" MaxHeight="11">
+    <Level Id="Islands" Width="8" Height="9">
+      <L> ####</L>
+      <L> # .####</L>
+      <L>##.    #</L>
+      <L>#.. ## #</L>
+      <L># # ## #</L>
+      <L># $  $ #</L>
+      <L>## $$###</L>
+      <L> #@  #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Logical" Width="8" Height="9">
+      <L> #######</L>
+      <L> #     #</L>
+      <L>##. ## #</L>
+      <L># .$+# #</L>
+      <L>#  $*# #</L>
+      <L>### $  #</L>
+      <L>  #  ###</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Fluently" Width="8" Height="9">
+      <L> #####</L>
+      <L> #   #</L>
+      <L> #$# ###</L>
+      <L> #  $  #</L>
+      <L>## . ..#</L>
+      <L># $##. #</L>
+      <L>#@$   ##</L>
+      <L>####  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="4 2 die 4" Width="9" Height="9">
+      <L>   ####</L>
+      <L>   #  #</L>
+      <L>   # .#</L>
+      <L>####  ###</L>
+      <L># .  .. #</L>
+      <L># $#$$  #</L>
+      <L>##@$ # ##</L>
+      <L> ###   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Soko-San" Width="8" Height="9">
+      <L> ######</L>
+      <L> #.   #</L>
+      <L>## ## #</L>
+      <L># ..$ ##</L>
+      <L>#   #$ #</L>
+      <L># .$ $@#</L>
+      <L>##  ####</L>
+      <L> #  #</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Go Round 1" Width="8" Height="9">
+      <L> ####</L>
+      <L> #  ####</L>
+      <L> #$  $ #</L>
+      <L> # . . #</L>
+      <L>##$##. #</L>
+      <L>#  .# ##</L>
+      <L>#  $  #</L>
+      <L>#### @#</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Stock" Width="8" Height="9">
+      <L> #####</L>
+      <L> #   #</L>
+      <L> # #$#</L>
+      <L> # $@###</L>
+      <L>## #$  #</L>
+      <L>#  . . #</L>
+      <L>#  .#$ #</L>
+      <L>###  .##</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Go Round 2" Width="8" Height="9">
+      <L> ####</L>
+      <L> #  ####</L>
+      <L> #$  $ #</L>
+      <L> # . . #</L>
+      <L>##$##. #</L>
+      <L># @#. ##</L>
+      <L># $   #</L>
+      <L>####  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Excluded" Width="8" Height="8">
+      <L>  #####</L>
+      <L>###   #</L>
+      <L># $$# ##</L>
+      <L># $ .. #</L>
+      <L># # .. #</L>
+      <L># #$$  #</L>
+      <L>#. @####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Collider" Width="7" Height="9">
+      <L>#######</L>
+      <L>#     #</L>
+      <L># #.# #</L>
+      <L># $ $ #</L>
+      <L>## ** #</L>
+      <L> #@#. #</L>
+      <L> # $  #</L>
+      <L> ### .#</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="5 To Go" Width="8" Height="8">
+      <L> #####</L>
+      <L>##  .###</L>
+      <L>#@*  $ #</L>
+      <L># #$. .#</L>
+      <L>#   #$.#</L>
+      <L>###$#  #</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Pillars" Width="8" Height="8">
+      <L>   #####</L>
+      <L>####  .#</L>
+      <L>#@$.$# #</L>
+      <L>#$#.  .#</L>
+      <L>#.   # #</L>
+      <L>#  $ $ #</L>
+      <L>#  #####</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Socialising" Width="8" Height="8">
+      <L>######</L>
+      <L>#  . ###</L>
+      <L># # $  #</L>
+      <L>#  . # #</L>
+      <L>##. $$.#</L>
+      <L> #$# $ #</L>
+      <L> #+  ###</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="The Door" Width="8" Height="8">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#.#$ #</L>
+      <L># #. ###</L>
+      <L>#.$  $ #</L>
+      <L># # **@#</L>
+      <L>#     ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="The Fly" Width="7" Height="9">
+      <L>  ####</L>
+      <L> ##  ##</L>
+      <L> #  *+#</L>
+      <L>## # $#</L>
+      <L># $ * #</L>
+      <L># # $ #</L>
+      <L>#.  . #</L>
+      <L>###   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Prairie Dog" Width="7" Height="9">
+      <L>#######</L>
+      <L>#     #</L>
+      <L># # . #</L>
+      <L>#   $ #</L>
+      <L>## #* #</L>
+      <L> #$#. #</L>
+      <L> #  $*#</L>
+      <L> ###@.#</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Order" Width="8" Height="8">
+      <L>   ####</L>
+      <L>#### @#</L>
+      <L># $ *$#</L>
+      <L>#  #  ##</L>
+      <L>#  $*  #</L>
+      <L># .. # #</L>
+      <L>###   .#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Closing" Width="9" Height="9">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  #</L>
+      <L>#  *+#</L>
+      <L># # $###</L>
+      <L># $.*  ##</L>
+      <L>##   $  #</L>
+      <L> #### . #</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="Preparation" Width="8" Height="8">
+      <L>#####</L>
+      <L>#   ####</L>
+      <L># $  $ #</L>
+      <L>##..$ .#</L>
+      <L>#  #.$ #</L>
+      <L>#   *@##</L>
+      <L>####  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Escape From Alcatraz" Width="7" Height="9">
+      <L>######</L>
+      <L>#   .#</L>
+      <L># $# ##</L>
+      <L>##@$. #</L>
+      <L>##$*  #</L>
+      <L># . . #</L>
+      <L># $  ##</L>
+      <L>#  ###</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Rotating Block" Width="8" Height="8">
+      <L>#######</L>
+      <L>#+    ##</L>
+      <L>#   $$ #</L>
+      <L>#.#$   #</L>
+      <L>#.#  $ #</L>
+      <L>#.#$####</L>
+      <L>#.  #</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Thinking Process" Width="7" Height="9">
+      <L>####</L>
+      <L>#  ####</L>
+      <L># .@  #</L>
+      <L>#$ #$ #</L>
+      <L># $  ##</L>
+      <L>#.*.$#</L>
+      <L># #  #</L>
+      <L>#  . #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Picky" Width="8" Height="8">
+      <L> #######</L>
+      <L> #     #</L>
+      <L>##$ ##.#</L>
+      <L># $  #.#</L>
+      <L>#@$$  .#</L>
+      <L>##  $..#</L>
+      <L> #  ####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Sokogravity 1" Width="8" Height="9">
+      <L> #####</L>
+      <L> #   #</L>
+      <L> # $$#</L>
+      <L> # $@#</L>
+      <L>## #$###</L>
+      <L>#..  $ #</L>
+      <L># .. . #</L>
+      <L>##   ###</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="My Chain For You" Width="8" Height="9">
+      <L>#####</L>
+      <L>#   ###</L>
+      <L># #*  ##</L>
+      <L>#   .  #</L>
+      <L>###$ * #</L>
+      <L>  #@$. #</L>
+      <L>  #$# ##</L>
+      <L>  #.  #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Not Too Far" Width="7" Height="9">
+      <L> #####</L>
+      <L> # . #</L>
+      <L> #$. ##</L>
+      <L> # .. #</L>
+      <L> #$$  #</L>
+      <L>##@# ##</L>
+      <L># $$  #</L>
+      <L>#   . #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Breakpoint" Width="8" Height="9">
+      <L> ####</L>
+      <L> #@ ###</L>
+      <L> #$$  #</L>
+      <L> # $  #</L>
+      <L>## #.###</L>
+      <L>#.  .  #</L>
+      <L># $. * #</L>
+      <L>#####  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Arranged" Width="8" Height="8">
+      <L>########</L>
+      <L>#  . *@#</L>
+      <L>#  *$. #</L>
+      <L>## * $ #</L>
+      <L>#  # ###</L>
+      <L>#    #</L>
+      <L>#  ###</L>
+      <L>####</L>
+    </Level>
+    <Level Id="2-3-2" Width="8" Height="9">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L> ##  $##</L>
+      <L> #  .$@#</L>
+      <L>##.#$# #</L>
+      <L>#  $.*.#</L>
+      <L>#    ###</L>
+      <L>###  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Reach Out" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  # @#</L>
+      <L>  # $###</L>
+      <L>###*   #</L>
+      <L># .  # #</L>
+      <L># $$.. #</L>
+      <L># .$# ##</L>
+      <L>###   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Look At That !" Width="8" Height="9">
+      <L>  ####</L>
+      <L> ##  #</L>
+      <L>## . ###</L>
+      <L>#@$.$  #</L>
+      <L># $$ # #</L>
+      <L>##  . .#</L>
+      <L> # #$###</L>
+      <L> #  .#</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Intersection" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  # @#</L>
+      <L>### $###</L>
+      <L>#  $. .#</L>
+      <L># $* # #</L>
+      <L>## . # #</L>
+      <L> # .$  #</L>
+      <L> ##  ###</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Classic Sokoban" Width="8" Height="9">
+      <L>   ####</L>
+      <L>   #  #</L>
+      <L> ###  ##</L>
+      <L> #@$   #</L>
+      <L>##$# $ #</L>
+      <L>#..$$# #</L>
+      <L>#.     #</L>
+      <L>#..#####</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Checkery" Width="8" Height="9">
+      <L> #####</L>
+      <L> #   #</L>
+      <L> # # ###</L>
+      <L> #. $  #</L>
+      <L> # #.* #</L>
+      <L>##*@$ ##</L>
+      <L>#  *  #</L>
+      <L>#   ###</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Pinball" Width="8" Height="8">
+      <L>  ######</L>
+      <L>###  . #</L>
+      <L>#  $#  #</L>
+      <L>#  * . #</L>
+      <L>##$# * #</L>
+      <L> # @$  #</L>
+      <L> ####. #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Sokogravity 2" Width="8" Height="9">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>  #$$ #</L>
+      <L>  #@$ #</L>
+      <L>###$# #</L>
+      <L># $   ##</L>
+      <L># . .. #</L>
+      <L>### .. #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Know How" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###+$###</L>
+      <L># $$.  #</L>
+      <L>#    # #</L>
+      <L>###*. .#</L>
+      <L>  # #$ #</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Many Ways" Width="8" Height="9">
+      <L> #####</L>
+      <L> #.  #</L>
+      <L>## #$###</L>
+      <L># . .$ #</L>
+      <L>#  .   #</L>
+      <L># #$ ###</L>
+      <L>#. $$#</L>
+      <L>###@ #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Strucked Down" Width="8" Height="9">
+      <L>####</L>
+      <L>#  #</L>
+      <L>#+ #####</L>
+      <L>#$$    #</L>
+      <L>#..*$  #</L>
+      <L>#. $ ###</L>
+      <L># ## #</L>
+      <L>#    #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Obstacles" Width="8" Height="9">
+      <L>  ####</L>
+      <L> ## .###</L>
+      <L> #  $@.#</L>
+      <L>##* $. #</L>
+      <L># . # ##</L>
+      <L>#  $$ #</L>
+      <L># # ###</L>
+      <L>#   #</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Addition" Width="8" Height="9">
+      <L> #######</L>
+      <L> # .$  #</L>
+      <L>##$    #</L>
+      <L>#@ $ ###</L>
+      <L># #. #</L>
+      <L>#.*. #</L>
+      <L>## #$#</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Structural" Width="8" Height="8">
+      <L>#####</L>
+      <L>#   ###</L>
+      <L># .$ .##</L>
+      <L># $ #$ #</L>
+      <L>#$.    #</L>
+      <L>#  #$###</L>
+      <L>#..@ #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Shelter" Width="8" Height="9">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>###.$.##</L>
+      <L>#. $$  #</L>
+      <L># ##.  #</L>
+      <L>#   *@##</L>
+      <L>### $ #</L>
+      <L>  #  ##</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Round and round" Width="8" Height="9">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>###*  ##</L>
+      <L>#  .$.@#</L>
+      <L># $#.  #</L>
+      <L>##  * ##</L>
+      <L> ## $ #</L>
+      <L>  #  ##</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="S" Width="8" Height="8">
+      <L>########</L>
+      <L>#   $ .#</L>
+      <L># . . .#</L>
+      <L>#  $ # #</L>
+      <L>## # $ #</L>
+      <L> #$#$###</L>
+      <L> #.@ #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Worm" Width="7" Height="11">
+      <L>  #####</L>
+      <L> ##   #</L>
+      <L> #    #</L>
+      <L> #* .##</L>
+      <L> #. ##</L>
+      <L>##* #</L>
+      <L>#@$ #</L>
+      <L>#$ $#</L>
+      <L>#.  #</L>
+      <L>#   #</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Fragile" Width="8" Height="9">
+      <L>   ####</L>
+      <L>  ##  #</L>
+      <L>### * #</L>
+      <L>#.  * ##</L>
+      <L># # *  #</L>
+      <L># $$@ .#</L>
+      <L>###   ##</L>
+      <L>  #  ##</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="90Â°" Width="8" Height="9">
+      <L>  #####</L>
+      <L>  #   ##</L>
+      <L>  #$#  #</L>
+      <L>  #    #</L>
+      <L>  # . ##</L>
+      <L>###$* #</L>
+      <L># @ *$#</L>
+      <L># ..  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Continue" Width="9" Height="9">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>  # .##</L>
+      <L>### * ###</L>
+      <L>#@.$$   #</L>
+      <L># $     #</L>
+      <L>####$#.##</L>
+      <L>   #  .#</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Addition 2" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  #  ###</L>
+      <L>  # $ @#</L>
+      <L>  # $..#</L>
+      <L>### $#.#</L>
+      <L>#. $.$ #</L>
+      <L># #   ##</L>
+      <L>#   ###</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="The Root" Width="7" Height="11">
+      <L> ####</L>
+      <L> # @#</L>
+      <L> # $#</L>
+      <L>##$.#</L>
+      <L># $ #</L>
+      <L># . ###</L>
+      <L>#.. $ #</L>
+      <L>#     #</L>
+      <L>##.$###</L>
+      <L> #  #</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="The sledge" Width="8" Height="9">
+      <L>    ####</L>
+      <L>  ### @#</L>
+      <L> ##. *$#</L>
+      <L>##  #* #</L>
+      <L># .    #</L>
+      <L>#  $ $ #</L>
+      <L>##### .#</L>
+      <L>    #  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="75 Pieces Of A Cake" Width="8" Height="9">
+      <L> ####</L>
+      <L> # @#</L>
+      <L>##$$###</L>
+      <L># .$ .#</L>
+      <L># . # ##</L>
+      <L># *$   #</L>
+      <L>## #   #</L>
+      <L> #.  ###</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Heart" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  # .###</L>
+      <L>### .  #</L>
+      <L># $ $  #</L>
+      <L>#   #.##</L>
+      <L>### $$ #</L>
+      <L>  #  $+#</L>
+      <L>  # .###</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Wall 3.5 Beta" Width="9" Height="9">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>### .##</L>
+      <L>#  $  ###</L>
+      <L>#  ...  #</L>
+      <L>### $ * #</L>
+      <L>  #$#$###</L>
+      <L>  # @ #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Epicenter" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  #@ #</L>
+      <L>###*$###</L>
+      <L>#  $ $ #</L>
+      <L>#. ..  #</L>
+      <L># #  ###</L>
+      <L>#.# $#</L>
+      <L>#    #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="X" Width="9" Height="10">
+      <L> ####</L>
+      <L> #+ #</L>
+      <L>##$ #####</L>
+      <L># .$  $ #</L>
+      <L>#  $    #</L>
+      <L>##. #####</L>
+      <L> #* #</L>
+      <L> #. #</L>
+      <L> #  #</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Switch 2" Width="8" Height="9">
+      <L> ####</L>
+      <L> #  ####</L>
+      <L>## +   #</L>
+      <L># $$   #</L>
+      <L># .$#.$#</L>
+      <L>### * .#</L>
+      <L>  #  ###</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="The 5 Elements" Width="8" Height="9">
+      <L> #####</L>
+      <L>## . ##</L>
+      <L>#     #</L>
+      <L># .$.*##</L>
+      <L>## #$  #</L>
+      <L> #  $. #</L>
+      <L> ### $##</L>
+      <L>   # @#</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="ER" Width="8" Height="9">
+      <L>####</L>
+      <L>#  #####</L>
+      <L># $    #</L>
+      <L>#      #</L>
+      <L>###$#$##</L>
+      <L>  # .* #</L>
+      <L>  # .*@#</L>
+      <L>  # .###</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Easy 83" Width="9" Height="9">
+      <L>  ####</L>
+      <L>  #  ##</L>
+      <L>  # . #</L>
+      <L>###$* ###</L>
+      <L>#   *  .#</L>
+      <L># @$  $ #</L>
+      <L>###### .#</L>
+      <L>     #  #</L>
+      <L>     ####</L>
+    </Level>
+    <Level Id="85" Width="8" Height="9">
+      <L>  ####</L>
+      <L>###  #</L>
+      <L>#  $ ###</L>
+      <L>#..*$ @#</L>
+      <L>#   .$ #</L>
+      <L># .# ###</L>
+      <L>##$# #</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Explosive" Width="7" Height="9">
+      <L> ####</L>
+      <L> #  ###</L>
+      <L> #  $ #</L>
+      <L>##$$@.#</L>
+      <L>#  #$.#</L>
+      <L>#. .$.#</L>
+      <L>#   $##</L>
+      <L>## . #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="The cage" Width="8" Height="8">
+      <L> #####</L>
+      <L>##   ##</L>
+      <L># ..  #</L>
+      <L># *. $##</L>
+      <L># .#   #</L>
+      <L>##$$$$ #</L>
+      <L> #. @###</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Stage 1" Width="8" Height="8">
+      <L>   #####</L>
+      <L>####   #</L>
+      <L>#    $ #</L>
+      <L># .*$+##</L>
+      <L>##$.$$ #</L>
+      <L> #.  . #</L>
+      <L> ####  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Stage 2" Width="8" Height="8">
+      <L>#####</L>
+      <L>#   ####</L>
+      <L>#    * #</L>
+      <L>##.*$$@#</L>
+      <L>##$ . ##</L>
+      <L>#  .* #</L>
+      <L>#   ###</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Love Lines" Width="8" Height="8">
+      <L>  ####</L>
+      <L>###  ##</L>
+      <L># .  @##</L>
+      <L># * *$ #</L>
+      <L># *$.# #</L>
+      <L>#  $.  #</L>
+      <L>###  ###</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="The Eating Horse" Width="8" Height="8">
+      <L>#######</L>
+      <L>#     #</L>
+      <L>#...$ ##</L>
+      <L>#  $$  #</L>
+      <L>###+$# #</L>
+      <L>  #* * #</L>
+      <L>  #   ##</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Co-existence" Width="7" Height="9">
+      <L> ####</L>
+      <L> # @###</L>
+      <L> #**. #</L>
+      <L> # $  #</L>
+      <L>##.#  #</L>
+      <L>#   $ #</L>
+      <L>#..$$##</L>
+      <L>#    #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Usual" Width="8" Height="8">
+      <L>####</L>
+      <L>#  ###</L>
+      <L>#.  .###</L>
+      <L># $#$ @#</L>
+      <L># $.** #</L>
+      <L>#    $ #</L>
+      <L>## . ###</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Melting" Width="8" Height="9">
+      <L> ####</L>
+      <L>##@ ###</L>
+      <L># **  ##</L>
+      <L>#  **. #</L>
+      <L># * $  #</L>
+      <L>##   ###</L>
+      <L> ##  #</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Candidates" Width="8" Height="9">
+      <L>   ####</L>
+      <L>  ##  #</L>
+      <L>  #   ##</L>
+      <L> ## ** #</L>
+      <L>## ..  #</L>
+      <L># $ $$.#</L>
+      <L># .$@###</L>
+      <L>#  ###</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Sequence" Width="7" Height="9">
+      <L> ####</L>
+      <L> #@ ##</L>
+      <L> # * #</L>
+      <L>##$. #</L>
+      <L>#  .$##</L>
+      <L>#*$   #</L>
+      <L># . * #</L>
+      <L>#    ##</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Guilty Pleasures" Width="8" Height="8">
+      <L>  #####</L>
+      <L>  #   ##</L>
+      <L>### .  #</L>
+      <L>#  $ #.#</L>
+      <L># $@*$ #</L>
+      <L>###**. #</L>
+      <L>  #    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="The Passage" Width="8" Height="9">
+      <L>####</L>
+      <L>#@ ###</L>
+      <L># $ .#</L>
+      <L># * $##</L>
+      <L>##* * #</L>
+      <L> # .* ##</L>
+      <L> #     #</L>
+      <L> ###   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Pinguin" Width="8" Height="8">
+      <L>#######</L>
+      <L># + . ##</L>
+      <L>#   *$ #</L>
+      <L>###$.  #</L>
+      <L>  #  * #</L>
+      <L>  #$#$ #</L>
+      <L>  #  . #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="The Art Of Symmetry" Width="8" Height="8">
+      <L> #####</L>
+      <L>##   ###</L>
+      <L># $#   #</L>
+      <L># .*$..#</L>
+      <L># $  @ #</L>
+      <L>## *$###</L>
+      <L> # . #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Magnetic" Width="7" Height="9">
+      <L>####</L>
+      <L>#  ####</L>
+      <L>#  *  #</L>
+      <L># $  .#</L>
+      <L>## *# #</L>
+      <L> #  * #</L>
+      <L> # $.$#</L>
+      <L> ## .@#</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Wicked Warehouse" Width="8" Height="8">
+      <L>   ####</L>
+      <L>   #  #</L>
+      <L>####  ##</L>
+      <L>#   $. #</L>
+      <L>#  **  #</L>
+      <L># $+$# #</L>
+      <L>## * . #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Lost in magic" Width="7" Height="9">
+      <L>  #####</L>
+      <L>###   #</L>
+      <L>#.*.. #</L>
+      <L>#  $* #</L>
+      <L>#.#   #</L>
+      <L>#   $ #</L>
+      <L>###$$##</L>
+      <L>  # @#</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Till The End" Width="8" Height="8">
+      <L>#####</L>
+      <L>#.  ###</L>
+      <L># #$  #</L>
+      <L>#  . .##</L>
+      <L>#.* *$ #</L>
+      <L>#  $ $@#</L>
+      <L>####  ##</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Peninsula" Width="7" Height="9">
+      <L> ######</L>
+      <L> #    #</L>
+      <L> #$*$.#</L>
+      <L> #  #.#</L>
+      <L>## *@ #</L>
+      <L>#  *. #</L>
+      <L># $  ##</L>
+      <L>#  ###</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Spiral" Width="8" Height="8">
+      <L>  ####</L>
+      <L>###. #</L>
+      <L># $  #</L>
+      <L>#  $ ###</L>
+      <L>#..#   #</L>
+      <L>#@*.$$ #</L>
+      <L>## *   #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Immobile" Width="8" Height="8">
+      <L>   #####</L>
+      <L>   #@  #</L>
+      <L>####$$ #</L>
+      <L>#   .$ #</L>
+      <L># .$# .#</L>
+      <L>##$ .* #</L>
+      <L> # .  ##</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="+." Width="8" Height="8">
+      <L>#####</L>
+      <L># . ####</L>
+      <L>#    $@#</L>
+      <L>##$ *$*#</L>
+      <L> # # * #</L>
+      <L> # . . #</L>
+      <L> ###   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="With Honor" Width="8" Height="8">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  ###</L>
+      <L>#  *$$@#</L>
+      <L># #  *$#</L>
+      <L>#. ..$.#</L>
+      <L>##     #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Organised Chaos" Width="8" Height="8">
+      <L>  ####</L>
+      <L>  #  ##</L>
+      <L>###.$ ##</L>
+      <L>#  * $ #</L>
+      <L># $ *$@#</L>
+      <L># # . ##</L>
+      <L># . . #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Y ." Width="8" Height="8">
+      <L>#####</L>
+      <L># + ##</L>
+      <L>#$ $ ###</L>
+      <L># *..  #</L>
+      <L># $ $  #</L>
+      <L>#.$# ###</L>
+      <L># .  #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Traffic" Width="9" Height="8">
+      <L>####</L>
+      <L>#  ##</L>
+      <L>#.$ #####</L>
+      <L>#  ..   #</L>
+      <L>## $ $  #</L>
+      <L> #$*. ###</L>
+      <L> #@*  #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="In The Line" Width="8" Height="9">
+      <L>#######</L>
+      <L>#   $.##</L>
+      <L>#. $  +#</L>
+      <L>####$.$#</L>
+      <L>   # * #</L>
+      <L>   # * #</L>
+      <L>   #   #</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Pacman" Width="7" Height="10">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  #</L>
+      <L>#  * #</L>
+      <L>#. . #</L>
+      <L># $.$##</L>
+      <L>##$*$ #</L>
+      <L> #  .@#</L>
+      <L> ###  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="1 for 1" Width="8" Height="9">
+      <L> #######</L>
+      <L> # * . #</L>
+      <L> # .   #</L>
+      <L> # .$###</L>
+      <L>##$. #</L>
+      <L>#. $$#</L>
+      <L>#  $@#</L>
+      <L>#  ###</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Cosy" Width="8" Height="8">
+      <L>  ####</L>
+      <L>###  #</L>
+      <L># $$ ##</L>
+      <L># *   #</L>
+      <L># .$# ##</L>
+      <L>#@*.*  #</L>
+      <L>##   . #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="abf" Width="8" Height="8">
+      <L>######</L>
+      <L># *  #</L>
+      <L># ..$###</L>
+      <L>#  $   #</L>
+      <L>##..$  #</L>
+      <L># $$ ###</L>
+      <L>#  +##</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Divided in 3" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  # @#</L>
+      <L>  #$$#</L>
+      <L>  # .###</L>
+      <L>###$.. #</L>
+      <L># $ $  #</L>
+      <L>#  *. ##</L>
+      <L>#    .#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Not just yet" Width="8" Height="9">
+      <L>  #####</L>
+      <L>  # @.#</L>
+      <L>  # .$#</L>
+      <L>  # * #</L>
+      <L> ##$* ##</L>
+      <L>##  $  #</L>
+      <L>#  *.  #</L>
+      <L>#   ####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="The Center" Width="8" Height="9">
+      <L>   ####</L>
+      <L>   #  #</L>
+      <L>####$.##</L>
+      <L># $    #</L>
+      <L>#@.**. #</L>
+      <L>#$$    #</L>
+      <L>#. #####</L>
+      <L>#  #</L>
+      <L>####</L>
+    </Level>
+    <Level Id="The Iron Curtain" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>### $###</L>
+      <L>#  $. .#</L>
+      <L># . .  #</L>
+      <L>###$* $#</L>
+      <L>  #@*  #</L>
+      <L>  ###  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Rotation" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  #  ###</L>
+      <L>  # . .#</L>
+      <L>### ** #</L>
+      <L># @$$. #</L>
+      <L># $  $ #</L>
+      <L>#####. #</L>
+      <L>    #  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="?" Width="8" Height="9">
+      <L>   #####</L>
+      <L> ###   #</L>
+      <L>##   $ #</L>
+      <L># $.* ##</L>
+      <L>#..$. #</L>
+      <L>#   .##</L>
+      <L>###$$#</L>
+      <L>  # @#</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Elevators 1" Width="7" Height="10">
+      <L>   ####</L>
+      <L>  ##  #</L>
+      <L>### . #</L>
+      <L># $ $.#</L>
+      <L>#.*   #</L>
+      <L>#   * #</L>
+      <L>###.$##</L>
+      <L>  #$ #</L>
+      <L>  #@ #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="South-America" Width="8" Height="9">
+      <L>####</L>
+      <L>#@ #####</L>
+      <L>#.$ .  #</L>
+      <L># $*.* #</L>
+      <L>## $  ##</L>
+      <L> # $ ##</L>
+      <L> # . #</L>
+      <L> #  ##</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Into the deep" Width="8" Height="9">
+      <L>   #####</L>
+      <L>####.  #</L>
+      <L># +$.$ #</L>
+      <L># $ ..##</L>
+      <L>###$$ #</L>
+      <L>  # $.#</L>
+      <L>  #   #</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Shrinking" Width="8" Height="9">
+      <L>####</L>
+      <L>#  ###</L>
+      <L># $  #</L>
+      <L>#  .$###</L>
+      <L>##$.$.@#</L>
+      <L> #.  $ #</L>
+      <L> # * ###</L>
+      <L> # . #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Pacman 2" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  # @###</L>
+      <L>  #$$  #</L>
+      <L> ##.*  #</L>
+      <L> # * *##</L>
+      <L>## *. #</L>
+      <L>#     #</L>
+      <L>#   ###</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Complex switches" Width="7" Height="10">
+      <L>####</L>
+      <L>#  ##</L>
+      <L># . ###</L>
+      <L>#   $ #</L>
+      <L>##.$..#</L>
+      <L> # *$@#</L>
+      <L> # .$ #</L>
+      <L> # $###</L>
+      <L> #  #</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Birdie" Width="8" Height="9">
+      <L> ####</L>
+      <L> #  #</L>
+      <L>## $####</L>
+      <L># .  $@#</L>
+      <L>#  ** .#</L>
+      <L># * *  #</L>
+      <L>###  ###</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Crashing Birdie" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  ###</L>
+      <L># $. $ #</L>
+      <L>#  * . #</L>
+      <L># $* ###</L>
+      <L>## .$#</L>
+      <L> # .@#</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Divided in 5" Width="8" Height="9">
+      <L>  ####</L>
+      <L>###@ #</L>
+      <L>#. $$#</L>
+      <L>#. * ###</L>
+      <L>##$.$. #</L>
+      <L> # *   #</L>
+      <L> #   ###</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Bigfoot" Width="8" Height="9">
+      <L> ####</L>
+      <L> #  #</L>
+      <L> #. #</L>
+      <L> #$ #</L>
+      <L>##. ####</L>
+      <L># * $@ #</L>
+      <L># *$*  #</L>
+      <L>#   .  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Extension" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  #  ##</L>
+      <L>### . #</L>
+      <L># $*  ##</L>
+      <L>#.. .$ #</L>
+      <L># $* $@#</L>
+      <L>###  ###</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Tension" Width="8" Height="9">
+      <L>   #####</L>
+      <L> ### . #</L>
+      <L>## $   #</L>
+      <L># .  *##</L>
+      <L>#   * #</L>
+      <L>###.$ #</L>
+      <L>  #$* #</L>
+      <L>  # @##</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="The Big Center" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  #  ###</L>
+      <L>  #$   #</L>
+      <L>  # . .#</L>
+      <L>###$. ##</L>
+      <L>#  $* #</L>
+      <L>#@* .$#</L>
+      <L>###   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="The Passage 2" Width="8" Height="9">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  ###</L>
+      <L>#@$  $ #</L>
+      <L>#.**$..#</L>
+      <L>#  $   #</L>
+      <L>#. #####</L>
+      <L>#  #</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Blockie" Width="7" Height="10">
+      <L>####</L>
+      <L>#  #</L>
+      <L>#  ###</L>
+      <L># $  ##</L>
+      <L>#. ** #</L>
+      <L># $.*@#</L>
+      <L>##   ##</L>
+      <L> # * #</L>
+      <L> #  ##</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Godlike" Width="9" Height="8">
+      <L>  ######</L>
+      <L>  #  * #</L>
+      <L>###.*  ##</L>
+      <L>#  * .  #</L>
+      <L>#  $.$  #</L>
+      <L>### $####</L>
+      <L>  #@ #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="T-time" Width="7" Height="8">
+      <L>####</L>
+      <L>#  ####</L>
+      <L>#  $  #</L>
+      <L>#.$.. #</L>
+      <L># * $.#</L>
+      <L>#$ *$ #</L>
+      <L>#  .@##</L>
+      <L>######</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

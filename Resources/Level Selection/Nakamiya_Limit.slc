@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Nakamiya Limit</Title>
+  <Description>
+Collection &quot;Limit&quot; by Hirohiko Nakamiya
+  </Description>
+  <Email>nakamiya@livedoor.com</Email>
+  <LevelCollection Copyright="Hirohiko Nakamiya" MaxWidth="11" MaxHeight="7">
+    <Level Id="1" Width="7" Height="7">
+      <L>#######</L>
+      <L># .   #</L>
+      <L>#  $ .#</L>
+      <L># $@$ #</L>
+      <L>#. $  #</L>
+      <L>#   . #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="2" Width="10" Height="6">
+      <L>##########</L>
+      <L>#. . .   #</L>
+      <L>#  $ $ $ #</L>
+      <L># $@$ $  #</L>
+      <L># . . .  #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="3" Width="7" Height="7">
+      <L>#######</L>
+      <L>#...  #</L>
+      <L># $$$ #</L>
+      <L>#  @  #</L>
+      <L># $$$ #</L>
+      <L>#  ...#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="4" Width="10" Height="6">
+      <L>##########</L>
+      <L># . . .  #</L>
+      <L>#  $ $ $ #</L>
+      <L># $@$ $  #</L>
+      <L>#. . .   #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="5" Width="7" Height="7">
+      <L>#######</L>
+      <L># . . #</L>
+      <L># $$$ #</L>
+      <L>#. @ .#</L>
+      <L># $$$ #</L>
+      <L># . . #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="6" Width="11" Height="7">
+      <L>######</L>
+      <L>#    ######</L>
+      <L># $ $#  ..#</L>
+      <L># $ $   ..#</L>
+      <L># $ $#  ..#</L>
+      <L>#  @ ######</L>
+      <L>######</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

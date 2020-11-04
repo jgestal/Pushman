@@ -129,26 +129,43 @@ class GameViewController: CustomViewController {
         
         switch swipeGesture.direction {
         case .up:
-            print("Move Up")
-            move(displacement: IJPoint.up, angle: Angle.up)
+            moveUp()
         case .right:
-            print("Move Right")
-            move(displacement: IJPoint.right, angle: Angle.right)
+            moveRight()
         case .down:
-            print("Move Down")
-            move(displacement: IJPoint.down, angle: Angle.down)
+            moveDown()
         case .left:
-            print("Move Left")
-            move(displacement: IJPoint.left, angle: Angle.left)
+            moveLeft()
         default:
             return
         }
     }
 }
 
+// Player movement
 extension GameViewController {
+        
+    func moveUp() {
+        move(displacement: IJPoint.up, angle: Angle.up)
+    }
+    
+    func moveRight() {
+        move(displacement: IJPoint.right, angle: Angle.right)
+    }
+    
+    func moveDown() {
+        move(displacement: IJPoint.down, angle: Angle.down)
+    }
+    
+    func moveLeft() {
+        move(displacement: IJPoint.left, angle: Angle.left)
+    }
+}
 
-    @IBAction func exitButtonTapped(_ sender: UIButton) {
+// UI Buttons
+extension GameViewController {
+    
+    func exit() {
         let alertController = UIAlertController(title: "Exit Level", message: "You will lose your current progress. Are you sure?", preferredStyle: .alert)
         
         let action1 = UIAlertAction(title: "Yes", style: .default) { (action:UIAlertAction) in
@@ -162,20 +179,15 @@ extension GameViewController {
         self.present(alertController, animated: true, completion: nil)
     }
     
-    @IBAction func zoomInButtonTapped(_ sender: UIButton) {
+    func zoomIn() {
         changeZoom(increment: -1)
     }
     
-    @IBAction func zoomOutButtonTapped(_ sender: UIButton) {
+    func zoomOut() {
         changeZoom(increment: 1)
     }
     
-    @IBAction func backMovementButtonTapped(_ sender: UIButton) {
-        moveBack()
-    }
-    
-    @IBAction func reloadButtonTapped(_ sender: UIButton) {
-        
+    func reload() {
         let alertController = UIAlertController(title: "Restart Level", message: "You will lose your current progress. Are you sure?", preferredStyle: .alert)
         
         let action1 = UIAlertAction(title: "Yes", style: .default) { (action:UIAlertAction) in
@@ -190,8 +202,36 @@ extension GameViewController {
         self.present(alertController, animated: true, completion: nil)
     }
     
-    @IBAction func levelCompletedOKButtonTapped(_ sender: UIButton) {
+    func levelCompletedButton() {
         navigationController?.popViewController(animated: true)
+    }
+}
+
+
+extension GameViewController {
+
+    @IBAction func exitButtonTapped(_ sender: UIButton) {
+       exit()
+    }
+    
+    @IBAction func zoomInButtonTapped(_ sender: UIButton) {
+        zoomIn()
+    }
+    
+    @IBAction func zoomOutButtonTapped(_ sender: UIButton) {
+        zoomOut()
+    }
+    
+    @IBAction func backMovementButtonTapped(_ sender: UIButton) {
+        moveBack()
+    }
+    
+    @IBAction func reloadButtonTapped(_ sender: UIButton) {
+       reload()
+    }
+    
+    @IBAction func levelCompletedOKButtonTapped(_ sender: UIButton) {
+       levelCompletedButton()
     }
 }
 

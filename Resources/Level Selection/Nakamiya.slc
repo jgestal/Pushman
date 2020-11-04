@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Nakamiya</Title>
+  <Description>
+Collection by Hirohiko Nakamiya
+  </Description>
+  <Email>nakamiya@livedoor.com</Email>
+  <LevelCollection Copyright="Hirohiko Nakamiya" MaxWidth="27" MaxHeight="19">
+    <Level Id="nakamiya #01" Width="11" Height="9">
+      <L>  ######</L>
+      <L>###  @ ####</L>
+      <L>#   ##    #</L>
+      <L># ##   ## #</L>
+      <L># # .*. # #</L>
+      <L># $$* *$$ #</L>
+      <L>### .*. ###</L>
+      <L>  #     #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="nakamiya #02" Width="8" Height="8">
+      <L>  ####</L>
+      <L>  # @#</L>
+      <L>###$ ###</L>
+      <L># $.$$ #</L>
+      <L># ...  #</L>
+      <L>#  .$  #</L>
+      <L>##  ####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="nakamiya #03" Width="11" Height="8">
+      <L>      #####</L>
+      <L>####### @ #</L>
+      <L># $ $ $$$ #</L>
+      <L>#.........#</L>
+      <L>#$ $ $ $  #</L>
+      <L># # #######</L>
+      <L>#   #</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="nakamiya #04" Width="13" Height="7">
+      <L> ############</L>
+      <L> #    @     #</L>
+      <L> #********  #</L>
+      <L>##       $ ##</L>
+      <L>#  ******.*#</L>
+      <L>#          #</L>
+      <L>############</L>
+    </Level>
+    <Level Id="nakamiya #05 prototype" Width="14" Height="14">
+      <L>   ########</L>
+      <L>   #   #  #</L>
+      <L>   # $  $ #</L>
+      <L>##### ##  ####</L>
+      <L>#   # ## ##  #</L>
+      <L># $  .# .  $ #</L>
+      <L>## ## ..###  #</L>
+      <L>#  ###.. ## ##</L>
+      <L># $  . #.  $ #</L>
+      <L>#  ## @# #   #</L>
+      <L>####  ##  ####</L>
+      <L>   # $  $ #</L>
+      <L>   #  ##  #</L>
+      <L>   ########</L>
+    </Level>
+    <Level Id="Nakamiya #06" Width="13" Height="12">
+      <L>  ##########</L>
+      <L>  #....... #</L>
+      <L>### #####  #</L>
+      <L>#     #   ###</L>
+      <L># @$$ # $   #</L>
+      <L>##$ $###$ $ #</L>
+      <L># $ $ # $ $##</L>
+      <L>#     #     #</L>
+      <L>### $ # $ $ #</L>
+      <L> #  ##### ###</L>
+      <L> # .......#</L>
+      <L> ##########</L>
+    </Level>
+    <Level Id="Nakamiya #07" Width="11" Height="9">
+      <L>  #######</L>
+      <L>  #     #</L>
+      <L>###$#.#$###</L>
+      <L>#  $...$  #</L>
+      <L># #$...$# #</L>
+      <L># #     # #</L>
+      <L># ##$#### #</L>
+      <L>#    @    #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Nakamiya #08" Width="11" Height="9">
+      <L>  #######</L>
+      <L>  #  #  #</L>
+      <L>###$...$###</L>
+      <L>#  $. .$  #</L>
+      <L># #$...$# #</L>
+      <L># #  #  # #</L>
+      <L># #$$#### #</L>
+      <L>#    @    #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Nakamiya #09" Width="15" Height="9">
+      <L> ####</L>
+      <L> #  ###########</L>
+      <L> #$ ........  #</L>
+      <L> #  #######$  #</L>
+      <L> #$ #  # $    #</L>
+      <L>## ##$     #$ #</L>
+      <L># $     $  #  #</L>
+      <L>#   # @########</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Nakamiya #10" Width="27" Height="19">
+      <L> ####</L>
+      <L> #  #######################</L>
+      <L> #$   $ $ $ $ $ $ $ $ $ $ #</L>
+      <L> # .#. . . . . . . . . .  #</L>
+      <L> #$ #################### ##</L>
+      <L> # .#        #  #  #  #. #</L>
+      <L> #$ #        #.  .$#.   $#</L>
+      <L> # .########## $#  # $#. #</L>
+      <L> #$ #  #  #  #  # $#  # $#</L>
+      <L> # .#$.  .#$.#.$#.  .$#. #</L>
+      <L> #$ #  #$ #  #  #  #  # $#</L>
+      <L> # .#$ #  #$ ##########. #</L>
+      <L> #$ @ .#$.  .#        # $#</L>
+      <L> # .#  #  #  #        #. #</L>
+      <L>## #################### $#</L>
+      <L>#  . . . . . . . . . .#. #</L>
+      <L># $ $ $ $ $ $ $ $ $ $   $#</L>
+      <L>#######################  #</L>
+      <L>                      ####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

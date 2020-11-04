@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>C-Soko</Title>
+  <Description>
+C-Soko level collection (Collection license: WTFPL
+[http://www.wtfpl.net/txt/copying/])
+  </Description>
+  <Email>mb13@inbox.lv</Email>
+  <Url>http://mb13.allalla.com/csoko</Url>
+  <LevelCollection Copyright="MB" MaxWidth="13" MaxHeight="13">
+    <Level Id="Two Boxes 1" Width="6" Height="6">
+      <L>#####</L>
+      <L>#   ##</L>
+      <L>#  $@#</L>
+      <L>##$ .#</L>
+      <L> #  .#</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Two Boxes 2" Width="6" Height="6">
+      <L> #####</L>
+      <L>##@..#</L>
+      <L># $$##</L>
+      <L>#    #</L>
+      <L>##   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Two Boxes 3" Width="8" Height="6">
+      <L>########</L>
+      <L># @#   #</L>
+      <L># *$   #</L>
+      <L>#  #  ##</L>
+      <L>#. #  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Two Boxes 4" Width="10" Height="8">
+      <L>      ####</L>
+      <L> ######  #</L>
+      <L> #@$   $ #</L>
+      <L> #.#     #</L>
+      <L>##    ####</L>
+      <L># .  ##</L>
+      <L>#   ##</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Two Boxes 5" Width="8" Height="6">
+      <L>#####</L>
+      <L># . ####</L>
+      <L>#  $@  #</L>
+      <L>##*    #</L>
+      <L> #  ####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Two Boxes 6" Width="8" Height="6">
+      <L> ######</L>
+      <L> # .  ##</L>
+      <L>##$  $@#</L>
+      <L>#  .#  #</L>
+      <L>#   #  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Two Boxes 7" Width="7" Height="9">
+      <L>#######</L>
+      <L>#     #</L>
+      <L># @   #</L>
+      <L>##$#  #</L>
+      <L>## .* #</L>
+      <L>#  ####</L>
+      <L>#    #</L>
+      <L>#    #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Two Boxes 8" Width="7" Height="7">
+      <L>   ####</L>
+      <L>####..#</L>
+      <L>#     #</L>
+      <L># $$ @#</L>
+      <L>##  ###</L>
+      <L> #  #</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Two Boxes 9" Width="7" Height="9">
+      <L> #####</L>
+      <L> #   #</L>
+      <L> # $ #</L>
+      <L>## ####</L>
+      <L>#.@   #</L>
+      <L>## #  #</L>
+      <L> # $. #</L>
+      <L> ###  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Two Boxes 10" Width="7" Height="9">
+      <L>#####</L>
+      <L>#   ##</L>
+      <L>#    #</L>
+      <L>## .@#</L>
+      <L>## .$##</L>
+      <L>#  #  #</L>
+      <L>#  $  #</L>
+      <L>#  #  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Two Boxes 11" Width="6" Height="8">
+      <L>######</L>
+      <L>#  #.#</L>
+      <L>#    #</L>
+      <L>#. # #</L>
+      <L>## $ #</L>
+      <L># $ ##</L>
+      <L># @ #</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Two Boxes 12" Width="8" Height="7">
+      <L>########</L>
+      <L>#   #  #</L>
+      <L>#      #</L>
+      <L>####   #</L>
+      <L> # $$###</L>
+      <L> #  +.#</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Two Boxes 13" Width="7" Height="9">
+      <L> ######</L>
+      <L> #    #</L>
+      <L> #$   #</L>
+      <L> #@. ##</L>
+      <L>##$. ##</L>
+      <L>#     #</L>
+      <L>#  #  #</L>
+      <L>#  #  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Two Boxes 14" Width="7" Height="7">
+      <L> ######</L>
+      <L> # . .#</L>
+      <L>##$#  #</L>
+      <L>#     #</L>
+      <L># $#  #</L>
+      <L># @#  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Two Boxes 15 - Rabbit" Width="13" Height="13">
+      <L>  #########</L>
+      <L>  #   ##  #</L>
+      <L>  #       ##</L>
+      <L> ### ###   ##</L>
+      <L> #@$   ##   #</L>
+      <L> ###  $ # # #</L>
+      <L>##### ..#   #</L>
+      <L>#     ### ###</L>
+      <L>#       # #</L>
+      <L>#  ###  # ###</L>
+      <L>#### #      #</L>
+      <L>     #  #   #</L>
+      <L>     ########</L>
+    </Level>
+    <Level Id="Three Boxes 1" Width="5" Height="5">
+      <L>####</L>
+      <L>#..#</L>
+      <L>#$$##</L>
+      <L>#@$.#</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Three Boxes 2" Width="10" Height="6">
+      <L> ###</L>
+      <L>##+#######</L>
+      <L>#  ..    #</L>
+      <L># $  $$  #</L>
+      <L>######   #</L>
+      <L>     #####</L>
+    </Level>
+    <Level Id="Three Boxes 3" Width="8" Height="5">
+      <L>########</L>
+      <L>#   .*@#</L>
+      <L>#  $.$ #</L>
+      <L>#   ####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Three Boxes 4" Width="7" Height="9">
+      <L> ######</L>
+      <L>##+#  #</L>
+      <L># $   #</L>
+      <L>#   $ #</L>
+      <L>#### ##</L>
+      <L>#     #</L>
+      <L>#  * .#</L>
+      <L>#  #  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Three Boxes 5" Width="7" Height="9">
+      <L>######</L>
+      <L>#.#  #</L>
+      <L>#.#  #</L>
+      <L>#.  $#</L>
+      <L>#  #@#</L>
+      <L>#   $##</L>
+      <L>## $  #</L>
+      <L> ##   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Three Boxes 6" Width="7" Height="9">
+      <L>#####</L>
+      <L>#...##</L>
+      <L>#    #</L>
+      <L>#  # #</L>
+      <L>##  $##</L>
+      <L>#@$   #</L>
+      <L>###$  #</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Three Boxes 7" Width="8" Height="6">
+      <L>######</L>
+      <L>#    ###</L>
+      <L>#  $ $ #</L>
+      <L># # $+ #</L>
+      <L>#   #..#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Three Boxes 8" Width="8" Height="7">
+      <L>#######</L>
+      <L>#...  #</L>
+      <L># $@$ ##</L>
+      <L>## ##  #</L>
+      <L> #  $  #</L>
+      <L> #  #  #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Three Boxes 9" Width="10" Height="6">
+      <L>##### ####</L>
+      <L>#   ###  #</L>
+      <L>#     $@ #</L>
+      <L>## $#$   #</L>
+      <L>#...#   ##</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Three Boxes 10" Width="7" Height="9">
+      <L>#####</L>
+      <L>#.  ###</L>
+      <L>#.#   #</L>
+      <L>#.    #</L>
+      <L># # ###</L>
+      <L># $ $@#</L>
+      <L>##  $ #</L>
+      <L> ###  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Three Boxes 11" Width="11" Height="7">
+      <L>      ####</L>
+      <L>      #  #</L>
+      <L>####### .##</L>
+      <L>#  ##   ..#</L>
+      <L>#@$   $$  #</L>
+      <L>####   ####</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Three Boxes 12" Width="10" Height="6">
+      <L> #######</L>
+      <L>##  #  ###</L>
+      <L>#    $ $ #</L>
+      <L>#  # ..*@#</L>
+      <L>#  #  #  #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Three Boxes 13" Width="8" Height="7">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>### # ##</L>
+      <L>#  ... #</L>
+      <L># $$ $ #</L>
+      <L># @#####</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Three Boxes 14" Width="6" Height="8">
+      <L> ####</L>
+      <L>##  #</L>
+      <L># $+##</L>
+      <L>#  $.#</L>
+      <L># $  #</L>
+      <L>#. ###</L>
+      <L>#  #</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Four Boxes 1" Width="10" Height="7">
+      <L>#####  ###</L>
+      <L>#   ####.#</L>
+      <L># $ #  #.#</L>
+      <L>#  $#$  .#</L>
+      <L>#     $@.#</L>
+      <L>#####  ###</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Four Boxes 2" Width="7" Height="7">
+      <L>######</L>
+      <L># ..@#</L>
+      <L># .*$##</L>
+      <L>#  $  #</L>
+      <L>## $  #</L>
+      <L> ###  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Four Boxes 3" Width="7" Height="6">
+      <L>######</L>
+      <L>#.. +##</L>
+      <L># #$$ #</L>
+      <L>#  $  #</L>
+      <L>#   * #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Four Boxes 4" Width="7" Height="6">
+      <L>#######</L>
+      <L>#. . .#</L>
+      <L># $# ##</L>
+      <L>#  $$ #</L>
+      <L>#.  $@#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Four Boxes 5" Width="7" Height="7">
+      <L>######</L>
+      <L>#... #</L>
+      <L># #. ##</L>
+      <L>#   $ #</L>
+      <L>#$$$  #</L>
+      <L>#@ #  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Four Boxes 6" Width="10" Height="7">
+      <L>##########</L>
+      <L>#   ##   #</L>
+      <L>#  $#  . #</L>
+      <L>#   # $.##</L>
+      <L>##   $ *@#</L>
+      <L> #  ## .##</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Four Boxes 7" Width="8" Height="7">
+      <L> ######</L>
+      <L> #.   ##</L>
+      <L>#### $.#</L>
+      <L>#@$  #.#</L>
+      <L># $$   #</L>
+      <L>#. #   #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Four Boxes 8" Width="9" Height="8">
+      <L>#########</L>
+      <L>#  ..#  #</L>
+      <L># #..$  #</L>
+      <L>#  $ #  #</L>
+      <L>##  ## ##</L>
+      <L> # $@$  #</L>
+      <L> ####   #</L>
+      <L>    #####</L>
+    </Level>
+    <Level Id="Four Boxes 9" Width="10" Height="9">
+      <L>########</L>
+      <L># .... #</L>
+      <L>#  $@$ #</L>
+      <L>##### ####</L>
+      <L> ###     #</L>
+      <L> #     $ #</L>
+      <L> #   ##$ #</L>
+      <L> ######  #</L>
+      <L>      ####</L>
+    </Level>
+    <Level Id="Four Boxes 10" Width="6" Height="9">
+      <L>####</L>
+      <L>#  #</L>
+      <L>#@ ###</L>
+      <L>#* $ #</L>
+      <L>#.*  #</L>
+      <L># * ##</L>
+      <L>#   #</L>
+      <L>#  ##</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Four Boxes 11" Width="6" Height="9">
+      <L>######</L>
+      <L>#@#  #</L>
+      <L>#$#  #</L>
+      <L># $  #</L>
+      <L>#.*  #</L>
+      <L># * ##</L>
+      <L># .  #</L>
+      <L>##   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Four Boxes 12" Width="10" Height="6">
+      <L>########</L>
+      <L>#  ##  ###</L>
+      <L>#   ..   #</L>
+      <L>#  $#.$$ #</L>
+      <L>###  .$@##</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Four Boxes 13 - Devilish Level" Width="9" Height="6">
+      <L> #######</L>
+      <L> # .   ##</L>
+      <L> #  $   #</L>
+      <L>####$ *.#</L>
+      <L>#@$ .   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Five Boxes 1" Width="6" Height="6">
+      <L>######</L>
+      <L>#..$@#</L>
+      <L># .**#</L>
+      <L>#$$  #</L>
+      <L>#    #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Five Boxes 2" Width="9" Height="6">
+      <L>    #####</L>
+      <L>#####@  #</L>
+      <L>#   $$$ #</L>
+      <L>#..**. ##</L>
+      <L>#      #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Five Boxes 3" Width="8" Height="8">
+      <L>########</L>
+      <L>#  #   #</L>
+      <L>#  $$# #</L>
+      <L>#@$    #</L>
+      <L>###$  ##</L>
+      <L># $ #  #</L>
+      <L>#..... #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Five Boxes 4" Width="11" Height="6">
+      <L>###########</L>
+      <L>#.. @#    #</L>
+      <L>##  $$  $ #</L>
+      <L>###  $$ # #</L>
+      <L>#...  #   #</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Five Boxes 5" Width="7" Height="10">
+      <L>#######</L>
+      <L>#. $. #</L>
+      <L>##    #</L>
+      <L>#.  ###</L>
+      <L>### * #</L>
+      <L>#@$ $ #</L>
+      <L># $ . #</L>
+      <L>#  ####</L>
+      <L>#  #</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Five Boxes 6" Width="11" Height="7">
+      <L>  #######</L>
+      <L>  #  .*@#</L>
+      <L>###  $$ #</L>
+      <L>#  $ # ####</L>
+      <L>#    # $ .#</L>
+      <L>####..  ###</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Five Boxes 7" Width="7" Height="10">
+      <L>#######</L>
+      <L># .$  #</L>
+      <L>#.    #</L>
+      <L>#.  ###</L>
+      <L>#.# ###</L>
+      <L>#.# $@#</L>
+      <L>#  $$ #</L>
+      <L>##$#  #</L>
+      <L> #    #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Five Boxes 8" Width="10" Height="9">
+      <L>    ######</L>
+      <L>    #@#  #</L>
+      <L>  ###$   #</L>
+      <L>###   $$ #</L>
+      <L>#.   $  ##</L>
+      <L>#.. $#  #</L>
+      <L>#.#  ####</L>
+      <L>#.####</L>
+      <L>###</L>
+    </Level>
+    <Level Id="Five Boxes 9 - Puppy" Width="10" Height="9">
+      <L>   ####</L>
+      <L>####  #</L>
+      <L># $.*.#</L>
+      <L># ## .#</L>
+      <L>#    .####</L>
+      <L>### $$   #</L>
+      <L>  #$     #</L>
+      <L>  #@###  #</L>
+      <L>  ### ####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

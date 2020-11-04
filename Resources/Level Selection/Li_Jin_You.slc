@@ -1,0 +1,3884 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Li Jin You Collection</Title>
+  <Description>
+The levels in this set were collected, documented and published by
+Sokoplaza members. Collection supervisor: Mark (extracting actual
+levels by Li Jin You from a much bigger collection of levels by other
+authors, removing the duplicates, removing usolvable levels, forming a
+new collection composition in general, coauthor of some remodels).
+  </Description>
+  <LevelCollection Copyright="Li Jin You" MaxWidth="28" MaxHeight="19">
+    <Level Id="Level 1" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L> ######</L>
+      <L> #    ##</L>
+      <L>##.##$ #</L>
+      <L># .. $@#</L>
+      <L>#  # $ #</L>
+      <L>#    ###</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 2" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>  ####</L>
+      <L> ##  ##</L>
+      <L>##    #</L>
+      <L># . .$##</L>
+      <L>#    $ #</L>
+      <L>####*# #</L>
+      <L>   #@  #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Level 3" Width="7" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>#######</L>
+      <L># . *@#</L>
+      <L>#  #$ #</L>
+      <L>#  .  #</L>
+      <L>##  $##</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 4" Width="7" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>#######</L>
+      <L># + * #</L>
+      <L># $#  #</L>
+      <L>#  .  #</L>
+      <L>##$  ##</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 5" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#   #  #</L>
+      <L>#   $@ #</L>
+      <L>##$##..#</L>
+      <L> # .#  #</L>
+      <L> #   $ #</L>
+      <L> #  ####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 6" Width="7" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L> ######</L>
+      <L>##  . #</L>
+      <L># . # #</L>
+      <L># . $ #</L>
+      <L># $#$##</L>
+      <L>##@  #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 7" Width="7" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>#######</L>
+      <L>#  +  #</L>
+      <L>#$#*# #</L>
+      <L># $   #</L>
+      <L>#.   ##</L>
+      <L>#  ###</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Level 8" Width="7" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>   ####</L>
+      <L>####  #</L>
+      <L>#  *  #</L>
+      <L>#     #</L>
+      <L>## .###</L>
+      <L> #$$#</L>
+      <L> # +#</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 9" Width="7" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>### ###</L>
+      <L>#+###.#</L>
+      <L>#$#  .#</L>
+      <L># $   #</L>
+      <L># $   #</L>
+      <L>#  #  #</L>
+      <L>#  ####</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Level 10" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>   ####</L>
+      <L>   #  ##</L>
+      <L>#### $@#</L>
+      <L>#. # $ #</L>
+      <L>#     ##</L>
+      <L>#.  $##</L>
+      <L>##.  #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 11" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>   ####</L>
+      <L>   #  ##</L>
+      <L>#### $@#</L>
+      <L>#. # $ #</L>
+      <L>#  $  ##</L>
+      <L>#.   ##</L>
+      <L>##.  #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 12" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>   ####</L>
+      <L>   #@ ##</L>
+      <L>####$$ #</L>
+      <L>#. #   #</L>
+      <L>#  $  ##</L>
+      <L>#.   ##</L>
+      <L>##.  #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 13" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>   ####</L>
+      <L>   #@ ##</L>
+      <L>####$$ #</L>
+      <L>#. #   #</L>
+      <L>#     ##</L>
+      <L>#.  $##</L>
+      <L>##.  #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 14" Width="8" Height="6" Copyright="Yoshio Murase, Ljy">
+      <L>#####</L>
+      <L># ..####</L>
+      <L>#    $@#</L>
+      <L>#  #$# #</L>
+      <L>#   .$ #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 15" Width="7" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>  #####</L>
+      <L>###  .#</L>
+      <L># $$# #</L>
+      <L># .   #</L>
+      <L># .#$ #</L>
+      <L>#   @##</L>
+      <L>#   ##</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Level 16" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>#######</L>
+      <L>#.   .#</L>
+      <L>#  $# ##</L>
+      <L># #  *@#</L>
+      <L>#   $# #</L>
+      <L>####   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Level 17" Width="7" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>#####</L>
+      <L>#.  ###</L>
+      <L># #$$ #</L>
+      <L># . # #</L>
+      <L>#  .$@#</L>
+      <L>##  ###</L>
+      <L> #  #</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 18" Width="7" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>#####</L>
+      <L>#.  ###</L>
+      <L># # $@#</L>
+      <L># . # #</L>
+      <L>#  .$ #</L>
+      <L>##$ ###</L>
+      <L> #  #</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 19" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>########</L>
+      <L>#.   . #</L>
+      <L># # #  #</L>
+      <L>#  $@$*#</L>
+      <L>#####  #</L>
+      <L>    #  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 20" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>####</L>
+      <L>#  #</L>
+      <L>#  #####</L>
+      <L># ..$  #</L>
+      <L>##  $  #</L>
+      <L> #$# ###</L>
+      <L> #+  #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 21" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L> #####</L>
+      <L> #   ###</L>
+      <L>## .   #</L>
+      <L>#+$ .$ #</L>
+      <L>##$# ###</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 22" Width="7" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L> #####</L>
+      <L>##   #</L>
+      <L>#  # #</L>
+      <L># .  ##</L>
+      <L># *   #</L>
+      <L>##$#$ #</L>
+      <L> #. @##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 23" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L> ####</L>
+      <L>##  ####</L>
+      <L>#+*   .#</L>
+      <L># #$$  #</L>
+      <L>#   #  #</L>
+      <L>#####  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 24" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L> ######</L>
+      <L> #  + ##</L>
+      <L> #  $$.#</L>
+      <L> ###.# #</L>
+      <L>##     #</L>
+      <L># $   ##</L>
+      <L>#   ###</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Level 25" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L> ####</L>
+      <L> #  #</L>
+      <L> #  #</L>
+      <L>##.$####</L>
+      <L>#   .$+#</L>
+      <L>#  $ ###</L>
+      <L>###  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Level 26" Width="7" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>#####</L>
+      <L>#.  #</L>
+      <L># # ###</L>
+      <L># .$$ #</L>
+      <L>#   *@#</L>
+      <L>#   ###</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Level 27" Width="7" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>  # #.#</L>
+      <L>###  .#</L>
+      <L># $$  #</L>
+      <L>#@$.  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 28" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>######</L>
+      <L># @  #</L>
+      <L># $#$###</L>
+      <L># .  $ #</L>
+      <L>#   ## #</L>
+      <L>##.  . #</L>
+      <L> ##   ##</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 29" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#  #$###</L>
+      <L># .$@$ #</L>
+      <L>#   ## #</L>
+      <L>##.  . #</L>
+      <L> ##   ##</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 30" Width="7" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>######</L>
+      <L>#   @##</L>
+      <L>#  #$ #</L>
+      <L>#.    #</L>
+      <L># $$#.#</L>
+      <L>###  .#</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 31" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L> ######</L>
+      <L>## .  #</L>
+      <L>#@$ * #</L>
+      <L>#  #  ##</L>
+      <L>#  #$ .#</L>
+      <L>#### # #</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Level 32" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>    ####</L>
+      <L>    #  #</L>
+      <L>  ###$.#</L>
+      <L>  #  . #</L>
+      <L>###  #.#</L>
+      <L>#  $@$ #</L>
+      <L>#   #  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 33" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>    ####</L>
+      <L>    #  #</L>
+      <L>  ###$.#</L>
+      <L>  #  . #</L>
+      <L>###  #.#</L>
+      <L>#@$ $  #</L>
+      <L>#   #  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 34" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>#####</L>
+      <L>#  .###</L>
+      <L>#  .. #</L>
+      <L># $##$##</L>
+      <L>##  #  #</L>
+      <L> #   $@#</L>
+      <L> #  ####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 35" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>  #  ###</L>
+      <L>### .. #</L>
+      <L># $$#  #</L>
+      <L>#@$.   #</L>
+      <L>####   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Level 36" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>#####</L>
+      <L>#  @###</L>
+      <L># #$* ##</L>
+      <L># $.   #</L>
+      <L>###    #</L>
+      <L>  #   .#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Level 37" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>  ######</L>
+      <L>### .  #</L>
+      <L># $$#. #</L>
+      <L>#   # ##</L>
+      <L>#  .$@#</L>
+      <L>##  # #</L>
+      <L> ##   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 38" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>  ######</L>
+      <L>###@.  #</L>
+      <L># $$#. #</L>
+      <L>#   # ##</L>
+      <L>#  .  #</L>
+      <L>## $# #</L>
+      <L> ##   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 39" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>  ######</L>
+      <L>### .  #</L>
+      <L># $ #. #</L>
+      <L>#  @# ##</L>
+      <L>#  *$ #</L>
+      <L>##  # #</L>
+      <L> ##   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 40" Width="8" Height="6" Copyright="Yoshio Murase, Ljy">
+      <L> ####</L>
+      <L>##@ ###</L>
+      <L># $ $ ##</L>
+      <L>#  # $ #</L>
+      <L>#  . ..#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 41" Width="8" Height="6" Copyright="Yoshio Murase, Ljy">
+      <L> ####</L>
+      <L>##@ ###</L>
+      <L># $ $ ##</L>
+      <L>#  #   #</L>
+      <L># $. ..#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 42" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L> #######</L>
+      <L>##     #</L>
+      <L>#.$#   #</L>
+      <L>#   $.##</L>
+      <L># *#@ #</L>
+      <L>#  ####</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Level 43" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L> #######</L>
+      <L>##     #</L>
+      <L>#.$#   #</L>
+      <L>#@$  .##</L>
+      <L># *#  #</L>
+      <L>#  ####</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Level 44" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>########</L>
+      <L>#      #</L>
+      <L># # ##*#</L>
+      <L># # $  #</L>
+      <L>#.  *@ #</L>
+      <L>#####  #</L>
+      <L>    #  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 45" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>########</L>
+      <L>#  @   #</L>
+      <L># #$##*#</L>
+      <L># #  $ #</L>
+      <L>#.  .  #</L>
+      <L>#####  #</L>
+      <L>    #  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 46" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L> ######</L>
+      <L> #    ##</L>
+      <L> ##    #</L>
+      <L>### .  #</L>
+      <L># $$# ##</L>
+      <L>#@*  .#</L>
+      <L>####  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 47" Width="7" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>#####</L>
+      <L>#   ###</L>
+      <L>#@$ $ #</L>
+      <L>##$  .#</L>
+      <L> #  . #</L>
+      <L> ## # #</L>
+      <L>  #  .#</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 48" Width="7" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>#####</L>
+      <L># @ ###</L>
+      <L># $$  #</L>
+      <L>## $ .#</L>
+      <L> #  . #</L>
+      <L> ## # #</L>
+      <L>  #  .#</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 49" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>#####</L>
+      <L>#   ####</L>
+      <L>#  $   #</L>
+      <L># .#.$ #</L>
+      <L>#  ##@##</L>
+      <L>#  ##$#</L>
+      <L>#    .#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 50" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>########</L>
+      <L>#  .#  #</L>
+      <L># .  . #</L>
+      <L>#  # $@#</L>
+      <L>#   $ ##</L>
+      <L>### $##</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Level 51" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L> #######</L>
+      <L>##@  . #</L>
+      <L># $$   #</L>
+      <L>#. .####</L>
+      <L># $##</L>
+      <L>#  #</L>
+      <L>#  #</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Level 52" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L> #######</L>
+      <L>##   . #</L>
+      <L>#@$    #</L>
+      <L>#.$.####</L>
+      <L># $##</L>
+      <L>#  #</L>
+      <L>#  #</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Level 53" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L> #######</L>
+      <L>##@  . #</L>
+      <L># $$$  #</L>
+      <L>#. .####</L>
+      <L>#  ##</L>
+      <L>#  #</L>
+      <L>#  #</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Level 54" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L> #######</L>
+      <L>##   . #</L>
+      <L>#@$ $  #</L>
+      <L>#.$.####</L>
+      <L>#  ##</L>
+      <L>#  #</L>
+      <L>#  #</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Level 55" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L> #######</L>
+      <L>##   . #</L>
+      <L>#    $ #</L>
+      <L>#* .####</L>
+      <L># $##</L>
+      <L># @#</L>
+      <L>#  #</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Level 56" Width="7" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>######</L>
+      <L># *  #</L>
+      <L>#  # #</L>
+      <L>#  $ ##</L>
+      <L>## #  #</L>
+      <L># $ # #</L>
+      <L>#.@.  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 57" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>   #####</L>
+      <L>#### . #</L>
+      <L># . $+ #</L>
+      <L>#  $#  #</L>
+      <L># #  $ #</L>
+      <L>#   ####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Level 58" Width="8" Height="6" Copyright="Yoshio Murase, Ljy">
+      <L>  ####</L>
+      <L>###  ###</L>
+      <L># ..$$.#</L>
+      <L>#  @$  #</L>
+      <L>####   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Level 59" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>    ####</L>
+      <L>    #  #</L>
+      <L>##### .#</L>
+      <L>#  $@$$#</L>
+      <L>#   .  #</L>
+      <L>### .  #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Level 60" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>########</L>
+      <L>#   #  #</L>
+      <L># #.$  #</L>
+      <L>#    $$#</L>
+      <L>#####.@#</L>
+      <L>  #    #</L>
+      <L>  #   .#</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Level 61" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#  $####</L>
+      <L>#  $.  #</L>
+      <L>##$#.# #</L>
+      <L>#.@  # #</L>
+      <L>#      #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 62" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>   ####</L>
+      <L>   #  #</L>
+      <L>#### $##</L>
+      <L>#@$ .  #</L>
+      <L># ##   #</L>
+      <L>#   ## #</L>
+      <L>#   .$.#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 63" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>   #####</L>
+      <L>   #@  #</L>
+      <L> ###$$ #</L>
+      <L> #    ##</L>
+      <L>##    #</L>
+      <L>#.  #$#</L>
+      <L>#..   #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 64" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>   #####</L>
+      <L>####.  #</L>
+      <L>#@$.   #</L>
+      <L># #  ###</L>
+      <L># $ $ .#</L>
+      <L>####   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Level 65" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>   #####</L>
+      <L>####.  #</L>
+      <L>#@$.   #</L>
+      <L># #  ###</L>
+      <L>#  $ $.#</L>
+      <L>####   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Level 66" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>   #####</L>
+      <L>####.  #</L>
+      <L>#  .   #</L>
+      <L># #  ###</L>
+      <L>#  $$$.#</L>
+      <L>####@  #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Level 67" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>########</L>
+      <L>#  .#@ #</L>
+      <L># # $$ #</L>
+      <L># $.#  #</L>
+      <L>## .   #</L>
+      <L> #  ####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 68" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>########</L>
+      <L>#  .#  #</L>
+      <L># #  $@#</L>
+      <L># $.#$ #</L>
+      <L>## .   #</L>
+      <L> #  ####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 69" Width="7" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>#######</L>
+      <L>#     #</L>
+      <L>#*## .#</L>
+      <L>#.  $@#</L>
+      <L>#  #$ #</L>
+      <L>#  #  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 70" Width="7" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>#######</L>
+      <L>#     #</L>
+      <L>#*## .#</L>
+      <L>#.$   #</L>
+      <L>#  #$ #</L>
+      <L>#  #@ #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 71" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>####</L>
+      <L>#. #</L>
+      <L>#  #</L>
+      <L>#  #####</L>
+      <L># .  $@#</L>
+      <L># .$$# #</L>
+      <L>###    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Level 72" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>######</L>
+      <L>#  . #</L>
+      <L>#    ###</L>
+      <L># #  *@#</L>
+      <L>#.  ## #</L>
+      <L># $$## #</L>
+      <L>###    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Level 73" Width="7" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>  ####</L>
+      <L>###@ ##</L>
+      <L># $$$ #</L>
+      <L># #.# #</L>
+      <L># #  .#</L>
+      <L>#  .  #</L>
+      <L>##   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 74" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>  #####</L>
+      <L>###@  #</L>
+      <L># $$#$##</L>
+      <L>#  . . #</L>
+      <L># ##.  #</L>
+      <L>#    ###</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 75" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>  #####</L>
+      <L>###   #</L>
+      <L># $ #$##</L>
+      <L>#@$. . #</L>
+      <L># ##.  #</L>
+      <L>#    ###</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 76" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>  #####</L>
+      <L>  #   ##</L>
+      <L>### .  #</L>
+      <L># $ .  #</L>
+      <L># #$* ##</L>
+      <L>#  @###</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Level 77" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L> ####</L>
+      <L> # @###</L>
+      <L> # $  #</L>
+      <L>### # ##</L>
+      <L>#.# #  #</L>
+      <L>#. $ # #</L>
+      <L>#.   $ #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 78" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>########</L>
+      <L>#  ##  #</L>
+      <L># .  * #</L>
+      <L>#  #  .#</L>
+      <L>##  $#$#</L>
+      <L> ###@  #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Level 79" Width="8" Height="7" Copyright="Yoshio Murase, Ljy">
+      <L>########</L>
+      <L>#  ##  #</L>
+      <L># .$ . #</L>
+      <L># $#  .#</L>
+      <L>##@$ # #</L>
+      <L> ###   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Level 80" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#   #. #</L>
+      <L>#.@    #</L>
+      <L>##$##  #</L>
+      <L>#  ##$##</L>
+      <L>#      #</L>
+      <L># *#   #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 81" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#   #  #</L>
+      <L># .  *@#</L>
+      <L>## ##  #</L>
+      <L>#  ##$##</L>
+      <L>#  $ . #</L>
+      <L>#  #   #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 82" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#   #  #</L>
+      <L>#   $  #</L>
+      <L>## ##  #</L>
+      <L># .##$##</L>
+      <L># +$   #</L>
+      <L># .#   #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 83" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L># @ #  #</L>
+      <L># $.$  #</L>
+      <L>## ##  #</L>
+      <L># .##$##</L>
+      <L>#   .  #</L>
+      <L>#  #   #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 84" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#   #  #</L>
+      <L>#  .$  #</L>
+      <L>## ##  #</L>
+      <L># .##$##</L>
+      <L># @$.  #</L>
+      <L>#  #   #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 85" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L># @ #  #</L>
+      <L># $ $  #</L>
+      <L>##.##  #</L>
+      <L># .##$##</L>
+      <L># .    #</L>
+      <L>#  #   #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 86" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#   #  #</L>
+      <L>#   $  #</L>
+      <L>##.##  #</L>
+      <L># .##$##</L>
+      <L># +$   #</L>
+      <L>#  #   #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 87" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> #######</L>
+      <L>## ##@.#</L>
+      <L># $ $$ #</L>
+      <L>#      #</L>
+      <L># #  # #</L>
+      <L># #### #</L>
+      <L>#.    .#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 88" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> #######</L>
+      <L>## ## .#</L>
+      <L># $    #</L>
+      <L>#   $$ #</L>
+      <L># # @# #</L>
+      <L># #### #</L>
+      <L>#.    .#</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 89" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#  #@  #</L>
+      <L>#  #$* #</L>
+      <L>#  # .##</L>
+      <L>##   $ #</L>
+      <L>#    . #</L>
+      <L>#  ##  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 90" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#  #@  #</L>
+      <L>#  #$. #</L>
+      <L>#  # *##</L>
+      <L>##     #</L>
+      <L>#    * #</L>
+      <L>#  ##  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 91" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>####</L>
+      <L>#. ###</L>
+      <L>#.   ###</L>
+      <L># #@$  #</L>
+      <L>#.$$ # #</L>
+      <L>##     #</L>
+      <L> ####  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 92" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> ####</L>
+      <L>##  ####</L>
+      <L>#@$  . #</L>
+      <L>#  #   #</L>
+      <L>#   #. #</L>
+      <L>## $ $ #</L>
+      <L> ### . #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Level 93" Width="8" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#...#  #</L>
+      <L>#   $  #</L>
+      <L># $# $ #</L>
+      <L>#  # @##</L>
+      <L>#  #  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 94" Width="7" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L> #####</L>
+      <L>##   ##</L>
+      <L># #.  #</L>
+      <L>#@*.  #</L>
+      <L># $$  #</L>
+      <L>##   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 95" Width="7" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L> #####</L>
+      <L>##   ##</L>
+      <L># #.$ #</L>
+      <L># .*  #</L>
+      <L>#   $ #</L>
+      <L>##  @##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 96" Width="7" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L> #####</L>
+      <L>##   ##</L>
+      <L># #+$ #</L>
+      <L># .*  #</L>
+      <L>#   $ #</L>
+      <L>##   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 97" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> #######</L>
+      <L>## ## +#</L>
+      <L># $ $ $#</L>
+      <L>#     .#</L>
+      <L>#.#  # #</L>
+      <L># #### #</L>
+      <L>#      #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 98" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> #######</L>
+      <L>## ## .#</L>
+      <L>#      #</L>
+      <L>#   $$.#</L>
+      <L>#.# @# #</L>
+      <L># ####$#</L>
+      <L>#      #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 99" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#  @   #</L>
+      <L># $$ #.#</L>
+      <L># #    #</L>
+      <L>##  #$.#</L>
+      <L>## #  .#</L>
+      <L>#      #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 100" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#      #</L>
+      <L># ###.##</L>
+      <L>#@$  .##</L>
+      <L>##  #. #</L>
+      <L>##$$#  #</L>
+      <L>#      #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 101" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>   ####</L>
+      <L> ### @#</L>
+      <L>## $ $##</L>
+      <L>#   #  #</L>
+      <L>#   #  #</L>
+      <L>##$#. .#</L>
+      <L> #.    #</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Level 102" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> #####</L>
+      <L> #   ###</L>
+      <L> #   $@#</L>
+      <L>## #.$.#</L>
+      <L># . #  #</L>
+      <L>#    $##</L>
+      <L>####   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Level 103" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> #######</L>
+      <L>##     #</L>
+      <L># ##@# #</L>
+      <L># ##$  #</L>
+      <L>#  $.* #</L>
+      <L># # .# #</L>
+      <L>#     ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 104" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> #######</L>
+      <L>##     #</L>
+      <L># ## # #</L>
+      <L># ##   #</L>
+      <L># $ .. #</L>
+      <L># #$*# #</L>
+      <L>#   @ ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 105" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L># #  # #</L>
+      <L>#      #</L>
+      <L>##. .$##</L>
+      <L>#    $ #</L>
+      <L>#  #*# #</L>
+      <L># # @  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 106" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>  ######</L>
+      <L>  #@   #</L>
+      <L>###*   #</L>
+      <L>#   ## #</L>
+      <L>#.   $ #</L>
+      <L>#  # $##</L>
+      <L>#   . #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 107" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> ######</L>
+      <L> #    #</L>
+      <L> #   $##</L>
+      <L>##.##  #</L>
+      <L># *+$  #</L>
+      <L>#  #   #</L>
+      <L>#    ###</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 108" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> ######</L>
+      <L> #    #</L>
+      <L> #   $##</L>
+      <L>##.##  #</L>
+      <L># .. $ #</L>
+      <L>#  #$  #</L>
+      <L>#   @###</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 109" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> ######</L>
+      <L> # .+ ##</L>
+      <L> #  $$.#</L>
+      <L> ### # #</L>
+      <L>##     #</L>
+      <L># $   ##</L>
+      <L>#   ###</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Level 110" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>####</L>
+      <L>#  #####</L>
+      <L>#  .#  #</L>
+      <L># #  $@#</L>
+      <L># $.#$ #</L>
+      <L>## .   #</L>
+      <L> #  ####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 111" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>####</L>
+      <L>#  #####</L>
+      <L>#  .#@ #</L>
+      <L># # $$ #</L>
+      <L># $.#  #</L>
+      <L>## .   #</L>
+      <L> #  ####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 112" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#  #   #</L>
+      <L>#  #   #</L>
+      <L>#.$##  #</L>
+      <L># *@$  #</L>
+      <L># .  # #</L>
+      <L>###    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Level 113" Width="7" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> ######</L>
+      <L>##  . #</L>
+      <L># . # #</L>
+      <L># . $ #</L>
+      <L># $# ##</L>
+      <L>##@$  #</L>
+      <L> ##   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 114" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>#### ###</L>
+      <L># .###.#</L>
+      <L>#  #  .#</L>
+      <L>#@$    #</L>
+      <L>## $$ ##</L>
+      <L> #  ###</L>
+      <L> #  #</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 115" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>######</L>
+      <L>#    ###</L>
+      <L>#  #   #</L>
+      <L># *+$  #</L>
+      <L>##.##  #</L>
+      <L>#   #$##</L>
+      <L>#      #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 116" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>######</L>
+      <L>#   @###</L>
+      <L>#  #$  #</L>
+      <L># .. $ #</L>
+      <L>##.##  #</L>
+      <L>#   #$##</L>
+      <L>#      #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 117" Width="7" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>######</L>
+      <L>#. @ ##</L>
+      <L># $$$ #</L>
+      <L>###.# #</L>
+      <L> #    #</L>
+      <L> #  . #</L>
+      <L> ###  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 118" Width="7" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>######</L>
+      <L>#.   ##</L>
+      <L># $ $ #</L>
+      <L>###.# #</L>
+      <L> #@$  #</L>
+      <L> #  . #</L>
+      <L> ###  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 119" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#  ##  #</L>
+      <L># .    #</L>
+      <L>#.##$# #</L>
+      <L>#  @*  #</L>
+      <L>##$   ##</L>
+      <L> #   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 120" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#  ##  #</L>
+      <L># .    #</L>
+      <L>#.## # #</L>
+      <L>#@$ .$ #</L>
+      <L>##$   ##</L>
+      <L> #   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 121" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#  ##  #</L>
+      <L># . @  #</L>
+      <L>#.##$# #</L>
+      <L># $ .  #</L>
+      <L>##$   ##</L>
+      <L> #   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 122" Width="9" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>#####</L>
+      <L>#   #####</L>
+      <L># # $.  #</L>
+      <L>#  $@.# #</L>
+      <L>## $#.  #</L>
+      <L> ##   ###</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 123" Width="9" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>#####</L>
+      <L>#   #####</L>
+      <L># #@$.  #</L>
+      <L># $$ .# #</L>
+      <L>##  #.  #</L>
+      <L> ##   ###</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 124" Width="9" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>#####</L>
+      <L>#  @#####</L>
+      <L># #$ .  #</L>
+      <L># $ $.# #</L>
+      <L>##  #.  #</L>
+      <L> ##   ###</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 125" Width="9" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>#####</L>
+      <L>#   #####</L>
+      <L># #@ .  #</L>
+      <L># $$ .# #</L>
+      <L>##  #.$ #</L>
+      <L> ##   ###</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 126" Width="9" Height="7" Copyright="Aymeric du Peloux, Ljy">
+      <L>     ####</L>
+      <L>    ##  #</L>
+      <L>   ## . #</L>
+      <L>####    #</L>
+      <L># $ $* ##</L>
+      <L>#  . @##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 127" Width="9" Height="7" Copyright="Aymeric du Peloux, Ljy">
+      <L>     ####</L>
+      <L>    ##  #</L>
+      <L>   ## . #</L>
+      <L>#### $  #</L>
+      <L># $  *@##</L>
+      <L>#  .  ##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 128" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> #######</L>
+      <L> #  ...#</L>
+      <L> #   ####</L>
+      <L>###   $@#</L>
+      <L>#   #$# #</L>
+      <L># $ #   #</L>
+      <L>#   #####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Level 129" Width="8" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>   ####</L>
+      <L>#### @#</L>
+      <L>#    $##</L>
+      <L># #$#  #</L>
+      <L># $    #</L>
+      <L>#.###  #</L>
+      <L>#.#### #</L>
+      <L>#.     #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 130" Width="7" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L> #####</L>
+      <L> #   #</L>
+      <L> # #$##</L>
+      <L>##  $@#</L>
+      <L># .#$ #</L>
+      <L># .  ##</L>
+      <L># .# #</L>
+      <L>##   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 131" Width="7" Height="12" Copyright="Aymeric du Peloux, Ljy">
+      <L> #####</L>
+      <L>##@  #</L>
+      <L># $#.##</L>
+      <L>#   . #</L>
+      <L>##$   #</L>
+      <L> # #. #</L>
+      <L> # $ ##</L>
+      <L> # ###</L>
+      <L> #  #</L>
+      <L> #  #</L>
+      <L> #  #</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 132" Width="9" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>  #####</L>
+      <L> ##   ###</L>
+      <L> #      #</L>
+      <L> #*#.#. #</L>
+      <L> # # $ ##</L>
+      <L>## #$#.#</L>
+      <L># @$   #</L>
+      <L>#   #  #</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 133" Width="10" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L>    #####</L>
+      <L>#####   #</L>
+      <L># $   $$#</L>
+      <L># # @.# ##</L>
+      <L>#  . #.  #</L>
+      <L>## # *   #</L>
+      <L> #   #####</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 134" Width="10" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L>     ####</L>
+      <L>###### @#</L>
+      <L>#   $ $$#</L>
+      <L># #  .# ##</L>
+      <L>#  .$#.  #</L>
+      <L>## # .   #</L>
+      <L> #   #####</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 135" Width="10" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L>     ####</L>
+      <L>######  #</L>
+      <L># $ $@$ #</L>
+      <L># # $.# ##</L>
+      <L>#  . #.  #</L>
+      <L>## # .   #</L>
+      <L> #   #####</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 136" Width="9" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L> ####</L>
+      <L> #@ #</L>
+      <L>##* #</L>
+      <L># .$#####</L>
+      <L>#  $ $  #</L>
+      <L># ..    #</L>
+      <L>####  ###</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 137" Width="9" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L> ####</L>
+      <L> #  #</L>
+      <L>##. #</L>
+      <L># . #####</L>
+      <L>#  $$ $ #</L>
+      <L># ..  $@#</L>
+      <L>####  ###</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 138" Width="8" Height="7" Copyright="Aymeric du Peloux, Ljy">
+      <L>########</L>
+      <L>#@$ .  #</L>
+      <L># ***. #</L>
+      <L>##   $ #</L>
+      <L> ##   ##</L>
+      <L>  ##  #</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 139" Width="10" Height="6" Copyright="Aymeric du Peloux, Ljy">
+      <L> #########</L>
+      <L> #  ##   #</L>
+      <L>##  *  # #</L>
+      <L># .$#*   #</L>
+      <L>#   . $@##</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Level 140" Width="8" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>  ####</L>
+      <L>###. ###</L>
+      <L>#      #</L>
+      <L># *..# #</L>
+      <L>## # $ #</L>
+      <L> #  $@##</L>
+      <L> ## #$#</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 141" Width="8" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>  #####</L>
+      <L>  #   #</L>
+      <L>###.# ##</L>
+      <L>#    . #</L>
+      <L># #  # #</L>
+      <L># * *  #</L>
+      <L>## $#$##</L>
+      <L> ##@  #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 142" Width="10" Height="10" Copyright="Aymeric du Peloux, Ljy">
+      <L>######</L>
+      <L>#   .#</L>
+      <L># .  #</L>
+      <L># # ###</L>
+      <L># # $@##</L>
+      <L># .* $ ##</L>
+      <L>####  $ ##</L>
+      <L>   ##    #</L>
+      <L>    ##   #</L>
+      <L>     #####</L>
+    </Level>
+    <Level Id="Level 143" Width="10" Height="10" Copyright="Aymeric du Peloux, Ljy">
+      <L>######</L>
+      <L>#   .#</L>
+      <L># .  #</L>
+      <L># # ###</L>
+      <L># #   ##</L>
+      <L># .*$  ##</L>
+      <L>####@$$ ##</L>
+      <L>   ##    #</L>
+      <L>    ##   #</L>
+      <L>     #####</L>
+    </Level>
+    <Level Id="Level 144" Width="8" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L> #####</L>
+      <L> #   ###</L>
+      <L>## # $@#</L>
+      <L># . $$ #</L>
+      <L>#...# ##</L>
+      <L># #  $ #</L>
+      <L>#  #   #</L>
+      <L>##   ###</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 145" Width="10" Height="10" Copyright="Aymeric du Peloux, Ljy">
+      <L>  ########</L>
+      <L>  #   #  #</L>
+      <L>  #   $. #</L>
+      <L> ###$##  #</L>
+      <L> # $.## ##</L>
+      <L>##@$..   #</L>
+      <L>#  # #   #</L>
+      <L># . $#####</L>
+      <L>##   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 146" Width="10" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L>     ####</L>
+      <L>  #### @#</L>
+      <L>  #.* $$#</L>
+      <L>###   # ##</L>
+      <L>#    #.. #</L>
+      <L>#    $   #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 147" Width="10" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>     #####</L>
+      <L> #####   #</L>
+      <L> #@$ . # #</L>
+      <L> #$# $   #</L>
+      <L>## ##$# ##</L>
+      <L>#   .$. #</L>
+      <L># ##   ##</L>
+      <L>#  . .##</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 148" Width="7" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L>#####</L>
+      <L>#   ###</L>
+      <L>#.# $ #</L>
+      <L>#@$ . #</L>
+      <L># $$  #</L>
+      <L>##.#.##</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 149" Width="10" Height="10" Copyright="Aymeric du Peloux, Ljy">
+      <L>     ####</L>
+      <L> ##### @#</L>
+      <L> # $ $ $#</L>
+      <L>## #.## #</L>
+      <L>#  #  . #</L>
+      <L>#  *  # ##</L>
+      <L>## ##.#  #</L>
+      <L> #       #</L>
+      <L> #  ######</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 150" Width="10" Height="10" Copyright="Aymeric du Peloux, Ljy">
+      <L>     ####</L>
+      <L> #####  #</L>
+      <L> #@$ $  #</L>
+      <L>##$#.## #</L>
+      <L>#  #  . #</L>
+      <L>#  .  #$##</L>
+      <L>## ##.#  #</L>
+      <L> #       #</L>
+      <L> #  ######</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 151" Width="9" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>  #####</L>
+      <L>  #   ###</L>
+      <L>###*# $ #</L>
+      <L>#  $  # #</L>
+      <L># # ..$@#</L>
+      <L># . #$###</L>
+      <L>## .  #</L>
+      <L> #  ###</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 152" Width="10" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>    #####</L>
+      <L>#####   ##</L>
+      <L>#   #$#  #</L>
+      <L>#  $@* # #</L>
+      <L>## ##..  #</L>
+      <L>#  #.  ###</L>
+      <L>#  $   #</L>
+      <L>#  #####</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Level 153" Width="9" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L> #######</L>
+      <L> #  # @#</L>
+      <L> #  .$$#</L>
+      <L>##$.#. #</L>
+      <L># $.#. ##</L>
+      <L>#   *$  #</L>
+      <L>#   #   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Level 154" Width="9" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L> #######</L>
+      <L> #  # @#</L>
+      <L> #  .$$#</L>
+      <L>##$.#. #</L>
+      <L># $.#* ##</L>
+      <L>#  $.   #</L>
+      <L>#   #   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Level 155" Width="9" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L> #######</L>
+      <L> #  #  #</L>
+      <L> #  .$ #</L>
+      <L>## *#* #</L>
+      <L>#  .#. ##</L>
+      <L># $$.$  #</L>
+      <L>#   #@  #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Level 156" Width="9" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L> #######</L>
+      <L> #  #  #</L>
+      <L> #  *$ #</L>
+      <L>## *#. #</L>
+      <L>#  .#. ##</L>
+      <L># $$.$  #</L>
+      <L>#   #@  #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Level 157" Width="9" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L>  #######</L>
+      <L> ##  #  #</L>
+      <L> # . *  #</L>
+      <L>##$@ #$ #</L>
+      <L>#  *#. ##</L>
+      <L>#      #</L>
+      <L>#####  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 158" Width="9" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L>  #######</L>
+      <L> ##  #  #</L>
+      <L> # .$.  #</L>
+      <L>## $@#$ #</L>
+      <L>#  *#. ##</L>
+      <L>#      #</L>
+      <L>#####  #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 159" Width="10" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>#### ####</L>
+      <L>#  ### @#</L>
+      <L>#  $ $ $#</L>
+      <L>#  #.## #</L>
+      <L>##$ .   ##</L>
+      <L> # . .#  #</L>
+      <L> ## #    #</L>
+      <L>  #   ####</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 160" Width="9" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L> ####</L>
+      <L> #  #####</L>
+      <L> #    $@#</L>
+      <L> # # #$ #</L>
+      <L>##  .  ##</L>
+      <L># $#.#$#</L>
+      <L>#   .  #</L>
+      <L>### . ##</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 161" Width="9" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L> ####</L>
+      <L> #@ #####</L>
+      <L> #$$    #</L>
+      <L> # # #$ #</L>
+      <L>##  .  ##</L>
+      <L>#  #.#$#</L>
+      <L>#   .  #</L>
+      <L>### . ##</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 162" Width="10" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>  ####</L>
+      <L>###  #</L>
+      <L>#    ##</L>
+      <L>#  #  ###</L>
+      <L>## . . .#</L>
+      <L>##$##.#$##</L>
+      <L>#  $@$   #</L>
+      <L>#   ##   #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Level 163" Width="10" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>  ####</L>
+      <L>###  #</L>
+      <L>#    ##</L>
+      <L>#  #  ###</L>
+      <L>## . . .#</L>
+      <L>##$##.#$##</L>
+      <L># $@$    #</L>
+      <L>#   ##   #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Level 164" Width="10" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L> ####</L>
+      <L>###  #</L>
+      <L>#    ##</L>
+      <L>#  #  ###</L>
+      <L>## . . .#</L>
+      <L>##$##.#$##</L>
+      <L>#    $@$ #</L>
+      <L>#   ##   #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Level 165" Width="10" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>  ####</L>
+      <L>###  #</L>
+      <L>#    ##</L>
+      <L>#  #  ###</L>
+      <L>## . . .#</L>
+      <L>##$##.#$##</L>
+      <L>#   $@$  #</L>
+      <L>#   ##   #</L>
+      <L>##########</L>
+    </Level>
+    <Level Id="Level 166" Width="7" Height="12" Copyright="Aymeric du Peloux, Ljy">
+      <L> #####</L>
+      <L> #   #</L>
+      <L> #.#$##</L>
+      <L> #  $@#</L>
+      <L> #.#$ #</L>
+      <L> #   ##</L>
+      <L> #.# #</L>
+      <L>##   #</L>
+      <L># .#$#</L>
+      <L>#    #</L>
+      <L>#  ###</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Level 167" Width="8" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L> #####</L>
+      <L>##   ###</L>
+      <L># ..** #</L>
+      <L># #  # #</L>
+      <L>#    $@#</L>
+      <L>### #$##</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 168" Width="7" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>######</L>
+      <L>#    ##</L>
+      <L>#  *$ #</L>
+      <L># $.  #</L>
+      <L>## . ##</L>
+      <L> #$.$#</L>
+      <L> # * #</L>
+      <L> ##+##</L>
+      <L>  ###</L>
+    </Level>
+    <Level Id="Level 169" Width="9" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L>  #####</L>
+      <L>  #.  ###</L>
+      <L> ##.#   #</L>
+      <L> # * $  #</L>
+      <L>##@* #$##</L>
+      <L>#  *   #</L>
+      <L>#   ####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Level 170" Width="9" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>    ####</L>
+      <L>#####  #</L>
+      <L>#   $ @#</L>
+      <L>#  .#.$#</L>
+      <L>##$### ##</L>
+      <L> # .#.  #</L>
+      <L> #   $  #</L>
+      <L> #  #####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="Level 171" Width="8" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L>  ####</L>
+      <L>###  ###</L>
+      <L>#   .  #</L>
+      <L>#  $   #</L>
+      <L>##.#.#.#</L>
+      <L> # $$$ #</L>
+      <L> ###@ ##</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 172" Width="8" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L> #####</L>
+      <L> #   #</L>
+      <L> # # ##</L>
+      <L>## *$ ##</L>
+      <L>#  .$  #</L>
+      <L># $* # #</L>
+      <L>##@.  .#</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Level 173" Width="8" Height="8" Copyright="Aymeric du Peloux, Ljy">
+      <L> #####</L>
+      <L> #   #</L>
+      <L> # # ##</L>
+      <L>## *$ ##</L>
+      <L># $.$  #</L>
+      <L>#@$. # #</L>
+      <L>## .  .#</L>
+      <L> #######</L>
+    </Level>
+    <Level Id="Level 174" Width="9" Height="9" Copyright="Aymeric du Peloux, Ljy">
+      <L>     ####</L>
+      <L> #####  #</L>
+      <L> #      #</L>
+      <L> #*# #. #</L>
+      <L> #   $ ##</L>
+      <L>##*#$#.##</L>
+      <L>#  . *$ #</L>
+      <L>#   # @ #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Level 175" Width="10" Height="6" Copyright="Aymeric du Peloux, Ljy">
+      <L>      ####</L>
+      <L>####### .#</L>
+      <L># $ $    #</L>
+      <L>#@$  $...#</L>
+      <L>###   ####</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 176" Width="10" Height="6" Copyright="Aymeric du Peloux, Ljy">
+      <L>      ####</L>
+      <L>####### .#</L>
+      <L>#    $ $ #</L>
+      <L>#   $ .*+#</L>
+      <L>###   ####</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 177" Width="17" Height="6" Copyright="Aymeric du Peloux, Ljy">
+      <L>#################</L>
+      <L># @#  #  #  #   #</L>
+      <L>#.$$  # $#.     #</L>
+      <L>#  #.$ .    #   #</L>
+      <L>#  #  #  #  #   #</L>
+      <L>#################</L>
+    </Level>
+    <Level Id="Level 178" Width="17" Height="6" Copyright="Aymeric du Peloux, Ljy">
+      <L>#################</L>
+      <L>#  #  #  #  #   #</L>
+      <L>#+$   #  #.     #</L>
+      <L># $#.$ . $  #   #</L>
+      <L>#  #  #  #  #   #</L>
+      <L>#################</L>
+    </Level>
+    <Level Id="Level 179" Width="17" Height="6" Copyright="Aymeric du Peloux, Ljy">
+      <L>#################</L>
+      <L># @#  #  #  #   #</L>
+      <L>#.$$  #  #.     #</L>
+      <L>#  #.$ . $  #   #</L>
+      <L>#  #  #  #  #   #</L>
+      <L>#################</L>
+    </Level>
+    <Level Id="Level 180" Width="17" Height="6" Copyright="Aymeric du Peloux, Ljy">
+      <L>#################</L>
+      <L>#  #  #  #  #   #</L>
+      <L>#+$   # $#.     #</L>
+      <L># $#.$ .    #   #</L>
+      <L>#  #  #  #  #   #</L>
+      <L>#################</L>
+    </Level>
+    <Level Id="Level 181" Width="9" Height="7" Copyright="Aymeric du Peloux, Ljy">
+      <L>#### ####</L>
+      <L>#  ###  #</L>
+      <L>#   . $@#</L>
+      <L># $ .$$ #</L>
+      <L>### . ###</L>
+      <L>  # . #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 182" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>   ####</L>
+      <L>####  #</L>
+      <L>#@* . ##</L>
+      <L># $$ $ #</L>
+      <L># .# . #</L>
+      <L># *#  ##</L>
+      <L>##    #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Level 183" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>   ####</L>
+      <L>####  #</L>
+      <L># * . ##</L>
+      <L>#  $$  #</L>
+      <L># .# . #</L>
+      <L># .#$$##</L>
+      <L>##   @#</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Level 184" Width="8" Height="8" Copyright="Yoshio Murase, Ljy">
+      <L>   ####</L>
+      <L>####  #</L>
+      <L>#@* . ##</L>
+      <L># $$   #</L>
+      <L># .#$. #</L>
+      <L># *#  ##</L>
+      <L>##    #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Level 185" Width="11" Height="10" Copyright="Howard Abed, Ljy">
+      <L>  ########</L>
+      <L>###      #</L>
+      <L>#   $ $$ #</L>
+      <L>#   $  $ #</L>
+      <L>##### #####</L>
+      <L>   ##$. ..#</L>
+      <L>   # @.#  #</L>
+      <L>   # .   .#</L>
+      <L>   ####  ##</L>
+      <L>      ####</L>
+    </Level>
+    <Level Id="Level 186" Width="11" Height="10" Copyright="Howard Abed, Ljy">
+      <L>  ########</L>
+      <L>###      #</L>
+      <L>#     $  #</L>
+      <L>#     $  #</L>
+      <L>##### #####</L>
+      <L>   ## . ..#</L>
+      <L>   #  .#  #</L>
+      <L>   # * $$*#</L>
+      <L>   #### @##</L>
+      <L>      ####</L>
+    </Level>
+    <Level Id="Level 187" Width="11" Height="10" Copyright="Howard Abed, Ljy">
+      <L>  ########</L>
+      <L>###      #</L>
+      <L>#   $    #</L>
+      <L>#   $    #</L>
+      <L>##### #####</L>
+      <L>   ## . ..#</L>
+      <L>   #  .#  #</L>
+      <L>   # * $$*#</L>
+      <L>   #### @##</L>
+      <L>      ####</L>
+    </Level>
+    <Level Id="Level 188" Width="11" Height="10" Copyright="Howard Abed, Ljy">
+      <L>  ########</L>
+      <L>###      #</L>
+      <L>#  $$    #</L>
+      <L>#        #</L>
+      <L>##### #####</L>
+      <L>   ## . ..#</L>
+      <L>   #  .#  #</L>
+      <L>   # * $$*#</L>
+      <L>   #### @##</L>
+      <L>      ####</L>
+    </Level>
+    <Level Id="Level 189" Width="11" Height="10" Copyright="Howard Abed, Ljy">
+      <L>  ########</L>
+      <L>###      #</L>
+      <L># $    $ #</L>
+      <L>#        #</L>
+      <L>##### #####</L>
+      <L>   ## . ..#</L>
+      <L>   #  .#  #</L>
+      <L>   # * $$*#</L>
+      <L>   #### @##</L>
+      <L>      ####</L>
+    </Level>
+    <Level Id="Level 190" Width="8" Height="10" Copyright="Howard Abed, Ljy">
+      <L>#######</L>
+      <L>#     ##</L>
+      <L># $    #</L>
+      <L># $    #</L>
+      <L>### ####</L>
+      <L># *$*.#</L>
+      <L>#  @  #</L>
+      <L>#  # .#</L>
+      <L>#  .  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 191" Width="8" Height="10" Copyright="Howard Abed, Ljy">
+      <L>#######</L>
+      <L>#     ##</L>
+      <L>#   $$ #</L>
+      <L>#      #</L>
+      <L>### ####</L>
+      <L># *$*.#</L>
+      <L>#  @  #</L>
+      <L>#  # .#</L>
+      <L>#  .  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 192" Width="8" Height="10" Copyright="Howard Abed, Ljy">
+      <L>#######</L>
+      <L>#     ##</L>
+      <L>#   $  #</L>
+      <L>#   $  #</L>
+      <L>### ####</L>
+      <L># *$*.#</L>
+      <L>#  @  #</L>
+      <L>#  # .#</L>
+      <L>#  .  #</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 193" Width="8" Height="8" Copyright="Ken'ichiro Takahashi (takaken), Ljy">
+      <L> #####</L>
+      <L> #  @###</L>
+      <L>## #$  #</L>
+      <L># *. . #</L>
+      <L>#   $ ##</L>
+      <L>###$#.#</L>
+      <L>  #   #</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 194" Width="6" Height="9" Copyright="Ken'ichiro Takahashi (takaken), Ljy">
+      <L>######</L>
+      <L>#    #</L>
+      <L># $  #</L>
+      <L>##*  #</L>
+      <L># * ##</L>
+      <L># .$#</L>
+      <L># *@#</L>
+      <L># . #</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Level 195" Width="6" Height="9" Copyright="Ken'ichiro Takahashi (takaken), Ljy">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#  $ #</L>
+      <L>##.  #</L>
+      <L># * ##</L>
+      <L># * #</L>
+      <L># *$#</L>
+      <L># .@#</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Level 196" Width="7" Height="9" Copyright="Ken'ichiro Takahashi (takaken), Ljy">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>### $##</L>
+      <L># $.  #</L>
+      <L># $.  #</L>
+      <L>#  .$##</L>
+      <L>###* #</L>
+      <L>  #+##</L>
+      <L>  ###</L>
+    </Level>
+    <Level Id="Level 197" Width="9" Height="8" Copyright="Ken'ichiro Takahashi (takaken), Ljy">
+      <L>#####</L>
+      <L>#   #####</L>
+      <L>#$# #   #</L>
+      <L>#   $@$ #</L>
+      <L>#..# # ##</L>
+      <L>#.  $$ #</L>
+      <L>#..  ###</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 198" Width="9" Height="8" Copyright="Ken'ichiro Takahashi (takaken), Ljy">
+      <L>#####</L>
+      <L>#   #####</L>
+      <L># #$#   #</L>
+      <L>#       #</L>
+      <L>#.*# # ##</L>
+      <L>#*  $$ #</L>
+      <L>#.. @###</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 199" Width="9" Height="8" Copyright="Ken'ichiro Takahashi (takaken), Ljy">
+      <L>#####</L>
+      <L>#@  #####</L>
+      <L>#$#$#   #</L>
+      <L># $     #</L>
+      <L>#..# # ##</L>
+      <L>#.  $$ #</L>
+      <L>#..  ###</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 200" Width="9" Height="8" Copyright="Ken'ichiro Takahashi (takaken), Ljy">
+      <L>#####</L>
+      <L>#   #####</L>
+      <L>#$# #   #</L>
+      <L>#  $@$  #</L>
+      <L>#..# # ##</L>
+      <L>#.  $$ #</L>
+      <L>#..  ###</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 201" Width="9" Height="8" Copyright="Ken'ichiro Takahashi (takaken), Ljy">
+      <L>#####</L>
+      <L>#@  #####</L>
+      <L>#$# #   #</L>
+      <L># $ $   #</L>
+      <L>#..# # ##</L>
+      <L>#.  $$ #</L>
+      <L>#..  ###</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 202" Width="12" Height="7" Copyright="Ken'ichiro Takahashi (takaken), Ljy">
+      <L>     ####</L>
+      <L>   ###  ####</L>
+      <L>#### $  #  #</L>
+      <L># @$   $   #</L>
+      <L># # #$#$#$ #</L>
+      <L># .... .. ##</L>
+      <L>###########</L>
+    </Level>
+    <Level Id="Level 203" Width="9" Height="9" Copyright="Hiroki Kanou, Ljy">
+      <L>  #####</L>
+      <L>###  @#</L>
+      <L>#    $#</L>
+      <L>#   # ##</L>
+      <L>##$# . ##</L>
+      <L> #  ..* #</L>
+      <L> # $ #  #</L>
+      <L> ###   ##</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Level 204" Width="9" Height="10" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#   .  ##</L>
+      <L># ##.#$ #</L>
+      <L>#       #</L>
+      <L>##  .*###</L>
+      <L> # #.   #</L>
+      <L> #$$ ## #</L>
+      <L> #@$#   #</L>
+      <L> ##   ###</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 205" Width="9" Height="10" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#   .  ##</L>
+      <L># ##.#$ #</L>
+      <L>#   $   #</L>
+      <L>## @*.###</L>
+      <L> # #.   #</L>
+      <L> # $ ## #</L>
+      <L> # $#   #</L>
+      <L> ##   ###</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 206" Width="9" Height="8" Copyright="Thinking Rabbit, Ljy">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  ####</L>
+      <L>#  .*$  #</L>
+      <L>#  .. $@#</L>
+      <L>###$ ####</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Level 207" Width="9" Height="8" Copyright="Thinking Rabbit, Ljy">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  ####</L>
+      <L>#@$.. $ #</L>
+      <L># $*.   #</L>
+      <L>###  ####</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Level 208" Width="9" Height="8" Copyright="Thinking Rabbit, Ljy">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  ####</L>
+      <L>#  .*$  #</L>
+      <L># $.. $@#</L>
+      <L>###  ####</L>
+      <L>  #  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Level 209" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>   #####</L>
+      <L>####.  ##</L>
+      <L># $. *  #</L>
+      <L># $#$#  #</L>
+      <L>#@$. .  #</L>
+      <L>####$#  #</L>
+      <L>  #. .$ #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Level 210" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>   #####</L>
+      <L>####*  ##</L>
+      <L>#@$. .  #</L>
+      <L># $#$#  #</L>
+      <L># $. .  #</L>
+      <L>####$#  #</L>
+      <L>  #. .$ #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Level 211" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>   #####</L>
+      <L>####.  ##</L>
+      <L>#@$. .$ #</L>
+      <L># $# #  #</L>
+      <L># $. .$ #</L>
+      <L>####$#  #</L>
+      <L>  #. .$ #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Level 212" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>   ######</L>
+      <L>####+   #</L>
+      <L>#   $   #</L>
+      <L>#.##.##.#</L>
+      <L>#  $  $ #</L>
+      <L># $ .#$##</L>
+      <L>###    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="Level 213" Width="10" Height="6" Copyright="Hiroki Kanou, Ljy">
+      <L> #########</L>
+      <L>##       #</L>
+      <L>#@$ #$#$ #</L>
+      <L># $   . *#</L>
+      <L>#  ###...#</L>
+      <L>#### #####</L>
+    </Level>
+    <Level Id="Level 214" Width="10" Height="6" Copyright="Hiroki Kanou, Ljy">
+      <L> #########</L>
+      <L>##       #</L>
+      <L># $ # #$ #</L>
+      <L>#  $@$. *#</L>
+      <L>#  ###...#</L>
+      <L>#### #####</L>
+    </Level>
+    <Level Id="Level 215" Width="10" Height="6" Copyright="Hiroki Kanou, Ljy">
+      <L> #########</L>
+      <L>##   @   #</L>
+      <L># $$#$#$ #</L>
+      <L>#     . *#</L>
+      <L>#  ###...#</L>
+      <L>#### #####</L>
+    </Level>
+    <Level Id="Level 216" Width="10" Height="6" Copyright="Hiroki Kanou, Ljy">
+      <L> #########</L>
+      <L>##       #</L>
+      <L># $$# #$ #</L>
+      <L>#@$   . *#</L>
+      <L>#  ###...#</L>
+      <L>#### #####</L>
+    </Level>
+    <Level Id="Level 217" Width="12" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>  ##########</L>
+      <L>###   .    #</L>
+      <L>#  $## ##@ #</L>
+      <L>#   . * .$##</L>
+      <L>##$ ## ## #</L>
+      <L> #  $ .   #</L>
+      <L> ##########</L>
+    </Level>
+    <Level Id="Level 218" Width="12" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>  ##########</L>
+      <L>###   .    #</L>
+      <L>#   ##$##  #</L>
+      <L>#   . . * ##</L>
+      <L>##  ##$##$#</L>
+      <L> #    . $@#</L>
+      <L> ##########</L>
+    </Level>
+    <Level Id="Level 219" Width="16" Height="10" Copyright="Ken'ichiro Takahashi (takaken), Ljy">
+      <L>########</L>
+      <L>#@$  . # #######</L>
+      <L>#.$ $  # #    .#</L>
+      <L>#### .## #.  $ #</L>
+      <L>   #  #  ###  ##</L>
+      <L>   #  #    # $#</L>
+      <L>   #  #    #. #</L>
+      <L>#### #######$###</L>
+      <L>#              #</L>
+      <L>################</L>
+    </Level>
+    <Level Id="Level 220" Width="9" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>#########</L>
+      <L># $ .   #</L>
+      <L>#  *$*  #</L>
+      <L># +$. . #</L>
+      <L>#  *$*  #</L>
+      <L># $ .   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Level 221" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>   #####</L>
+      <L>####   ##</L>
+      <L># $ $   #</L>
+      <L># #.*.# #</L>
+      <L># #**.# #</L>
+      <L>#    $@ #</L>
+      <L>##   ####</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 222" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>   #####</L>
+      <L>####   ##</L>
+      <L>#   $ $@#</L>
+      <L># #..*# #</L>
+      <L># #.*.# #</L>
+      <L>#   $ $ #</L>
+      <L>##   ####</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 223" Width="9" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L> #####</L>
+      <L> #  @####</L>
+      <L>##$#$$  #</L>
+      <L>#    $$ #</L>
+      <L># # #...#</L>
+      <L>#   $...#</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Level 224" Width="9" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L> #####</L>
+      <L> #   ####</L>
+      <L>##$#  $ #</L>
+      <L>#    $  #</L>
+      <L># # #**.#</L>
+      <L># @$ ...#</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Level 225" Width="9" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L> #####</L>
+      <L> #   ####</L>
+      <L>##$#    #</L>
+      <L># $@$ $ #</L>
+      <L># #$#*..#</L>
+      <L>#    ...#</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Level 226" Width="9" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L> #####</L>
+      <L> #   ####</L>
+      <L>## #  $ #</L>
+      <L>#  $ $  #</L>
+      <L># # #**.#</L>
+      <L># @$ ...#</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Level 227" Width="9" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L> #####</L>
+      <L> #   ####</L>
+      <L>## #  $ #</L>
+      <L>#  $ $$ #</L>
+      <L># # #*..#</L>
+      <L>#@$  ...#</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Level 228" Width="6" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>####</L>
+      <L>#  ###</L>
+      <L>#  $+#</L>
+      <L>#  $*#</L>
+      <L>#  $.#</L>
+      <L># # .#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 229" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> ######</L>
+      <L>##  . ##</L>
+      <L># . #$ ##</L>
+      <L># $ # $ #</L>
+      <L># @## # #</L>
+      <L># $$  ..#</L>
+      <L>#  .#   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="Level 230" Width="8" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#      #</L>
+      <L># ## # #</L>
+      <L>#   $  #</L>
+      <L>## $ ###</L>
+      <L> #*$$.#</L>
+      <L> #+. .#</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Level 231" Width="10" Height="9" Copyright="Hiroki Kanou, Ljy">
+      <L>##########</L>
+      <L>#..      #</L>
+      <L>#.. $ #  #</L>
+      <L>#  #$## ##</L>
+      <L>#@$     #</L>
+      <L>##### # #</L>
+      <L>  # $   #</L>
+      <L>  #     #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Level 232" Width="10" Height="9" Copyright="Hiroki Kanou, Ljy">
+      <L>##########</L>
+      <L>#..      #</L>
+      <L>#..$$ #  #</L>
+      <L>#  # ## ##</L>
+      <L>#@$     #</L>
+      <L>##### # #</L>
+      <L>  # $   #</L>
+      <L>  #     #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Level 233" Width="7" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L> ######</L>
+      <L>## .$@#</L>
+      <L>#  $$ #</L>
+      <L>#. * *#</L>
+      <L>#     #</L>
+      <L>#  . ##</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 234" Width="7" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L> ######</L>
+      <L>## .  #</L>
+      <L>#   $ #</L>
+      <L>#* . .#</L>
+      <L># $$  #</L>
+      <L>#@$. ##</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 235" Width="6" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> ####</L>
+      <L>##@ #</L>
+      <L># $$#</L>
+      <L>##  ##</L>
+      <L>## $ #</L>
+      <L>#* $ #</L>
+      <L>#....#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 236" Width="6" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> ####</L>
+      <L>##  #</L>
+      <L>#@$ #</L>
+      <L>##$ ##</L>
+      <L>## $ #</L>
+      <L>#* $ #</L>
+      <L>#....#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 237" Width="6" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> ####</L>
+      <L>##@ #</L>
+      <L># $$#</L>
+      <L>##  ##</L>
+      <L>## $ #</L>
+      <L>#.$  #</L>
+      <L>#..*.#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Level 238" Width="7" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>#######</L>
+      <L>#. . .#</L>
+      <L># $ $ #</L>
+      <L>#.$$ *#</L>
+      <L># $ $ #</L>
+      <L>#. .$+#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 239" Width="7" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>#######</L>
+      <L>#. . .#</L>
+      <L># $$$ #</L>
+      <L>#*@$ .#</L>
+      <L># $$$ #</L>
+      <L>#. . .#</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 240" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> ######</L>
+      <L>##    ###</L>
+      <L># $$*   #</L>
+      <L>#  . *  #</L>
+      <L>##.$* *##</L>
+      <L> # * .@#</L>
+      <L> ##   ##</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 241" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L> ######</L>
+      <L>##    ###</L>
+      <L># $ .   #</L>
+      <L>#  .$*  #</L>
+      <L>##.$* *##</L>
+      <L> # * *@#</L>
+      <L> ##   ##</L>
+      <L>  #####</L>
+    </Level>
+    <Level Id="Level 242" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>   #####</L>
+      <L>   #@  #</L>
+      <L>   #$$$#</L>
+      <L>####   #</L>
+      <L>#   .#$##</L>
+      <L>#  * * .#</L>
+      <L>#  #.#.##</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 243" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>   #####</L>
+      <L>   #@  #</L>
+      <L>   #$$$#</L>
+      <L>####   #</L>
+      <L>#   .#$##</L>
+      <L>#  . * .#</L>
+      <L>#  #*#.##</L>
+      <L>########</L>
+    </Level>
+    <Level Id="Level 244" Width="11" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>   ########</L>
+      <L>####    . #</L>
+      <L># $   $$* #</L>
+      <L>#  .### *##</L>
+      <L>#  .   $@#</L>
+      <L>#  .  ####</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 245" Width="11" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>   ########</L>
+      <L>####    *@#</L>
+      <L>#     $$. #</L>
+      <L>#  *### *##</L>
+      <L>#  .     #</L>
+      <L>#  *  ####</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 246" Width="11" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>   ########</L>
+      <L>####    . #</L>
+      <L># $ $  $* #</L>
+      <L>#  .### *##</L>
+      <L>#  .   $@#</L>
+      <L>#  .  ####</L>
+      <L>#######</L>
+    </Level>
+    <Level Id="Level 247" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#  $$####</L>
+      <L># $...*@#</L>
+      <L># ..**$ #</L>
+      <L>#### $  #</L>
+      <L>   #    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 248" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>######</L>
+      <L># @  #</L>
+      <L># $$ ####</L>
+      <L>#  **.. #</L>
+      <L># ..**$ #</L>
+      <L>####  $ #</L>
+      <L>   #    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 249" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#   $####</L>
+      <L># $**.. #</L>
+      <L>#@*..*$ #</L>
+      <L>####  $ #</L>
+      <L>   #    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 250" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>######</L>
+      <L># @  #</L>
+      <L># $$ ####</L>
+      <L>#  **.. #</L>
+      <L># .*.*  #</L>
+      <L>####$ $ #</L>
+      <L>   #    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 251" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#  $$####</L>
+      <L># $..*+ #</L>
+      <L># ..**  #</L>
+      <L>#### $$ #</L>
+      <L>   #    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 252" Width="9" Height="8" Copyright="Hiroki Kanou, Ljy">
+      <L>######</L>
+      <L>#    #</L>
+      <L>#    ####</L>
+      <L># $*.*+ #</L>
+      <L># ..**$ #</L>
+      <L>####$ $ #</L>
+      <L>   #    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 253" Width="10" Height="9" Copyright="Hiroki Kanou, Ljy">
+      <L>  ######</L>
+      <L>### $ .#</L>
+      <L># $ .####</L>
+      <L># $.#  @##</L>
+      <L>#  $##$$ #</L>
+      <L>#  . .   #</L>
+      <L>### $###.#</L>
+      <L>  #. # ###</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Level 254" Width="9" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#  #.. ##</L>
+      <L># $.  * #</L>
+      <L>#  $$$  #</L>
+      <L># *@$.$ #</L>
+      <L>## ..#  #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Level 255" Width="9" Height="7" Copyright="Hiroki Kanou, Ljy">
+      <L>########</L>
+      <L>#  #.. ##</L>
+      <L># $*  * #</L>
+      <L>#@$ $$  #</L>
+      <L># . $.$ #</L>
+      <L>## ..#  #</L>
+      <L> ########</L>
+    </Level>
+    <Level Id="Level 256" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##  *@$ #</L>
+      <L>#  #*#  #</L>
+      <L>#      ##</L>
+      <L>##$#.   #</L>
+      <L> #  .## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 257" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$. $ #</L>
+      <L># $#.#  #</L>
+      <L>#   $  ##</L>
+      <L>## #.   #</L>
+      <L> #  .## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 258" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##  . $ #</L>
+      <L># $#.#  #</L>
+      <L>#@$    ##</L>
+      <L>##$#.   #</L>
+      <L> #  .## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 259" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># *# #  #</L>
+      <L># .    ##</L>
+      <L>## # .  #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 260" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $#.#. #</L>
+      <L>#      ##</L>
+      <L>##.# .  #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 261" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $# #. #</L>
+      <L>#    ..##</L>
+      <L>##$#  . #</L>
+      <L> #   ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 262" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $# #. #</L>
+      <L># .   .##</L>
+      <L>## #  . #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 263" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># *#.#  #</L>
+      <L># . .  ##</L>
+      <L>## #    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 264" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@*  $ #</L>
+      <L># $# #. #</L>
+      <L># ..   ##</L>
+      <L>## #    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 265" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@*  $ #</L>
+      <L># $# #. #</L>
+      <L>#  .  .##</L>
+      <L>## #    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 266" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $# #. #</L>
+      <L>#     .##</L>
+      <L>##.#  . #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 267" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$. $ #</L>
+      <L># *# #  #</L>
+      <L>#   .  ##</L>
+      <L>## #    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 268" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$. $ #</L>
+      <L># $# #  #</L>
+      <L>#  . . ##</L>
+      <L>## #    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 269" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $# #  #</L>
+      <L>#  . ..##</L>
+      <L>## # .  #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 270" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $# #  #</L>
+      <L>#  . . ##</L>
+      <L>## #   .#</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 271" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$  $ #</L>
+      <L># $# #  #</L>
+      <L># .    ##</L>
+      <L>##.#    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 272" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$  $ #</L>
+      <L># $# #  #</L>
+      <L># .    ##</L>
+      <L>##.#   .#</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 273" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># *# #  #</L>
+      <L># . . .##</L>
+      <L>## #    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 274" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$. $ #</L>
+      <L># $# #  #</L>
+      <L># . .  ##</L>
+      <L>## #    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 275" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $# #  #</L>
+      <L># . . .##</L>
+      <L>##.#    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 276" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$. $ #</L>
+      <L># $# #  #</L>
+      <L>#  ..  ##</L>
+      <L>## #    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 277" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $# #  #</L>
+      <L>#  ....##</L>
+      <L>## #    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 278" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $# #  #</L>
+      <L>#  . ..##</L>
+      <L>## #    #</L>
+      <L> # $ ## #</L>
+      <L> ###.   #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 279" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$. $ #</L>
+      <L># $# #  #</L>
+      <L># .    ##</L>
+      <L>##.#    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 280" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$  $ #</L>
+      <L># $# #. #</L>
+      <L># .    ##</L>
+      <L>##.#    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 281" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$ .$ #</L>
+      <L># $# #  #</L>
+      <L># .    ##</L>
+      <L>##.#    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 282" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $# #. #</L>
+      <L>#      ##</L>
+      <L>##.#.  .#</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 283" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># *# #. #</L>
+      <L>#      ##</L>
+      <L>## #.   #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 284" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$. $ #</L>
+      <L># $# #  #</L>
+      <L>#  . . ##</L>
+      <L>## # .  #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 285" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $# #  #</L>
+      <L>#  . . ##</L>
+      <L>## # .  #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 286" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># *# #  #</L>
+      <L>#  .   ##</L>
+      <L>## #. . #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 287" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># *# #. #</L>
+      <L>#  .   ##</L>
+      <L>## #    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 288" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># *# #  #</L>
+      <L># ..   ##</L>
+      <L>## #.   #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 289" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># *# #  #</L>
+      <L>#  .   ##</L>
+      <L>## #.  .#</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 290" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$ .$ #</L>
+      <L># $# #  #</L>
+      <L>#  . . ##</L>
+      <L>## #  . #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 291" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># *# #  #</L>
+      <L># ..   ##</L>
+      <L>## #   .#</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 292" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># *# #. #</L>
+      <L>#   .  ##</L>
+      <L>## #    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 293" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$ .$ #</L>
+      <L># $# #  #</L>
+      <L>#  . . ##</L>
+      <L>## #    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 294" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># *# #. #</L>
+      <L># ..   ##</L>
+      <L>## #    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 295" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$ .$ #</L>
+      <L># *# #  #</L>
+      <L># ..   ##</L>
+      <L>## #    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 296" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># *# #  #</L>
+      <L># ..  .##</L>
+      <L>## #    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 297" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$. $ #</L>
+      <L># $# #  #</L>
+      <L>#  . ..##</L>
+      <L>## #    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 298" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># *# #. #</L>
+      <L>#   .  ##</L>
+      <L>## #  . #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 299" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ## @####</L>
+      <L>## .$ * #</L>
+      <L># $# #  #</L>
+      <L>#   .  ##</L>
+      <L>## #    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 300" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>## .$@* #</L>
+      <L>#  #$#  #</L>
+      <L>#   .  ##</L>
+      <L>## #    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 301" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ## @####</L>
+      <L>## *$ * #</L>
+      <L>#  # #  #</L>
+      <L>#   .  ##</L>
+      <L>## #    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 302" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>## .... #</L>
+      <L># $#$#  #</L>
+      <L>#@$    ##</L>
+      <L>##$#    #</L>
+      <L> #   ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 303" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ## @####</L>
+      <L>## .$.$ #</L>
+      <L># $# #  #</L>
+      <L>#   .  ##</L>
+      <L>## #    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 304" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>## .$+$ #</L>
+      <L>#  #$#  #</L>
+      <L>#   .  ##</L>
+      <L>## #    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 305" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ## @####</L>
+      <L>## *$.$ #</L>
+      <L>#  # #  #</L>
+      <L>#   .  ##</L>
+      <L>## #    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 306" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$. $ #</L>
+      <L># $# #  #</L>
+      <L>#   .  ##</L>
+      <L>##.#    #</L>
+      <L> # $ ## #</L>
+      <L> ###.   #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 307" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@*  * #</L>
+      <L># $# #  #</L>
+      <L>#      ##</L>
+      <L>##.# .  #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 308" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##.  .$@#</L>
+      <L>#  #$#$ #</L>
+      <L>#.     ##</L>
+      <L>##.#  $ #</L>
+      <L> #   ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 309" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##.  .$@#</L>
+      <L>#  # #$ #</L>
+      <L>#.     ##</L>
+      <L>##.#  $ #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 310" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$ .$ #</L>
+      <L># $#.#  #</L>
+      <L>#  .   ##</L>
+      <L>##.#    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 311" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$ .$ #</L>
+      <L># $# #  #</L>
+      <L>#      ##</L>
+      <L>##.# .  #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 312" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$ .$ #</L>
+      <L># $# #  #</L>
+      <L>#      ##</L>
+      <L>##.#  . #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 313" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$ .$ #</L>
+      <L># $# #  #</L>
+      <L>#      ##</L>
+      <L>##.#.   #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 314" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$ .$ #</L>
+      <L># $# #  #</L>
+      <L>#      ##</L>
+      <L>##.#   .#</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 315" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$ .$ #</L>
+      <L># $# #  #</L>
+      <L>#   .  ##</L>
+      <L>##.#    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 316" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$ .$ #</L>
+      <L># $# #  #</L>
+      <L>#      ##</L>
+      <L>##.#    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 317" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$ .$ #</L>
+      <L># $# #  #</L>
+      <L>#      ##</L>
+      <L>##.#    #</L>
+      <L> # $ ## #</L>
+      <L> ###.   #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 318" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$ .$ #</L>
+      <L># $#.#  #</L>
+      <L>#      ##</L>
+      <L>##.#    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 319" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$ .$ #</L>
+      <L># $# #  #</L>
+      <L>#  .   ##</L>
+      <L>##.#    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 320" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##+$..$ #</L>
+      <L># $# #  #</L>
+      <L>#      ##</L>
+      <L>##.#    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 321" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $#.#  #</L>
+      <L>#  .   ##</L>
+      <L>##.#    #</L>
+      <L> # $.## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 322" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>## . .. #</L>
+      <L># $#*#  #</L>
+      <L>#@$    ##</L>
+      <L>##$#    #</L>
+      <L> #   ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 323" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $#.#  #</L>
+      <L>#  . . ##</L>
+      <L>## #.   #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 324" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$  $ #</L>
+      <L># $#.#  #</L>
+      <L>#  .  .##</L>
+      <L>##.#    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 325" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ## @####</L>
+      <L>## .$ * #</L>
+      <L># $# #  #</L>
+      <L>#   . .##</L>
+      <L>## #    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 326" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>## .$@* #</L>
+      <L>#  #$#  #</L>
+      <L>#   . .##</L>
+      <L>## #    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 327" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ## @####</L>
+      <L>## *$ * #</L>
+      <L>#  # #  #</L>
+      <L>#   . .##</L>
+      <L>## #    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 328" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>##@$. * #</L>
+      <L># $#.#  #</L>
+      <L>#      ##</L>
+      <L>##.#    #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 329" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ##  ####</L>
+      <L>## .$@* #</L>
+      <L># .#$#  #</L>
+      <L>#      ##</L>
+      <L>## # .  #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 330" Width="9" Height="9" Copyright="Ljy">
+      <L>  ####</L>
+      <L> ## @####</L>
+      <L>## *$ * #</L>
+      <L># .# #  #</L>
+      <L>#      ##</L>
+      <L>## # .  #</L>
+      <L> # $ ## #</L>
+      <L> ###    #</L>
+      <L>   ######</L>
+    </Level>
+    <Level Id="Level 331" Width="8" Height="10" Copyright="Yoshio Murase, Ljy">
+      <L>  ###</L>
+      <L>  #.#</L>
+      <L> ##$###</L>
+      <L>## .  #</L>
+      <L># *$$.##</L>
+      <L># *  . #</L>
+      <L>#  *.$ #</L>
+      <L>#@* $ ##</L>
+      <L>##   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 332" Width="8" Height="10" Copyright="Yoshio Murase, Ljy">
+      <L>  ###</L>
+      <L>  #.#</L>
+      <L> ##$###</L>
+      <L>## .$@#</L>
+      <L># * $*##</L>
+      <L># *$ . #</L>
+      <L>#  ..$ #</L>
+      <L># .$  ##</L>
+      <L>##   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 333" Width="8" Height="10" Copyright="Yoshio Murase, Ljy">
+      <L>  ###</L>
+      <L>  #.#</L>
+      <L> ##$###</L>
+      <L>## .$@#</L>
+      <L># .$$*##</L>
+      <L># .$ . #</L>
+      <L>#  ..$ #</L>
+      <L># * $ ##</L>
+      <L>##   ##</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="Level 334" Width="16" Height="16" Copyright="Howard Abed, Ljy">
+      <L>################</L>
+      <L>#@             #</L>
+      <L># $*.********* #</L>
+      <L>#            * #</L>
+      <L>############ * #</L>
+      <L>#          # * #</L>
+      <L># ******** # * #</L>
+      <L># *      * # * #</L>
+      <L># * #### * # * #</L>
+      <L># * # #  * # * #</L>
+      <L># * # #    # * #</L>
+      <L># * ######## * #</L>
+      <L># *          * #</L>
+      <L># ************ #</L>
+      <L>#              #</L>
+      <L>################</L>
+    </Level>
+    <Level Id="Level 335" Width="17" Height="19" Copyright="Thinking Rabbit, Ljy">
+      <L>      #####</L>
+      <L>      #   #</L>
+      <L>      # $ #</L>
+      <L>     ## @ ##</L>
+      <L>    ##  *  ##</L>
+      <L>   ##  * *  ##</L>
+      <L>  ##  * * *  ##</L>
+      <L> ##  * * * *  ##</L>
+      <L>##  * * * * *  ##</L>
+      <L>#  * * * * * *  #</L>
+      <L># * * * * * * * #</L>
+      <L>#  * * * * * *  #</L>
+      <L>##  * * * * *  ##</L>
+      <L> ##  * * * *  ##</L>
+      <L>  ##  * . *  ##</L>
+      <L>   ##  * *  ##</L>
+      <L>    ##  *  ##</L>
+      <L>     ##   ##</L>
+      <L>      #####</L>
+    </Level>
+    <Level Id="Level 336" Width="28" Height="17" Copyright="Thinking Rabbit, Ljy">
+      <L>############################</L>
+      <L>#                          #</L>
+      <L># .$.$.$.$.$.$.$.$.$.$.$.$ #</L>
+      <L># $.$.$.$.$.$.$.$.$.$.$.$. #</L>
+      <L># .$.$.$.$.$.$.$.$.$.$.$.$ #</L>
+      <L># $.$.$.$.$.$.$.$.$.$.$.$. #</L>
+      <L># .$.$.$.$.$.$.$.$.$.$.$.$ #</L>
+      <L># $.$.$.$.$.$.$.$.$.$.$.$. #</L>
+      <L># .$.$.$.$.$.$+$.$.$.$.$.$ #</L>
+      <L># $.$.$.$.$.$.$.$.$.$.$.$. #</L>
+      <L># .$.$.$.$.$.$.$.$.$.$.$.$ #</L>
+      <L># $.$.$.$.$.$.$.$.$.$.$.$. #</L>
+      <L># .$.$.$.$.$.$.$.$.$.$.$.$ #</L>
+      <L># $.$.$.$.$.$.$.$.$.$.$.$. #</L>
+      <L># .$.$.$.$.$.$.$.$.$.$.$.$ #</L>
+      <L>#                          #</L>
+      <L>############################</L>
+    </Level>
+    <Level Id="Level 337" Width="20" Height="18" Copyright="Ljy">
+      <L>  ####      ####</L>
+      <L>###  #    ###  #</L>
+      <L>#    ##   #    ##</L>
+      <L>#  #  ### #  #  ###</L>
+      <L>## .... # ## .... #</L>
+      <L> # ## #$## # ## #$##</L>
+      <L> #$  $ $ ###$ $ $  #</L>
+      <L> #   #         #   #</L>
+      <L> ## ######### ######</L>
+      <L>  # ##      # ##</L>
+      <L>###  #    ###  #</L>
+      <L>#    ##   #    ##</L>
+      <L>#  #  ### #  #  ###</L>
+      <L>## .... # ## .... #</L>
+      <L> # ## #$## # ## #$##</L>
+      <L> #$ $ $  ###$$ $   #</L>
+      <L> #   #    @    #   #</L>
+      <L> ###################</L>
+    </Level>
+    <Level Id="Level 338" Width="10" Height="13" Copyright="Ljy">
+      <L>   ####</L>
+      <L>####  ####</L>
+      <L>#    $ . #</L>
+      <L>#  ..#.$ #</L>
+      <L>###$  #@##</L>
+      <L>  #    $#</L>
+      <L>  #### .#</L>
+      <L>  # $ $$#</L>
+      <L>###   # ##</L>
+      <L># ..*#.  #</L>
+      <L>#    $   #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 339" Width="10" Height="15" Copyright="Ljy">
+      <L>   ####</L>
+      <L>####  ####</L>
+      <L>#    $ . #</L>
+      <L>#  ..#.$ #</L>
+      <L>###$  #@##</L>
+      <L>  #    $#</L>
+      <L>  ####  #</L>
+      <L>     ##.#</L>
+      <L>  ####  #</L>
+      <L>  # $ $$#</L>
+      <L>###   # ##</L>
+      <L># ..*#.  #</L>
+      <L>#    $   #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 340" Width="10" Height="15" Copyright="Ljy">
+      <L>   ####</L>
+      <L>####  ####</L>
+      <L>#    $ . #</L>
+      <L>#  ..#.$ #</L>
+      <L>###$  #@##</L>
+      <L>  #    $#</L>
+      <L>  ####  #</L>
+      <L>     ## #</L>
+      <L>  ####  #</L>
+      <L>  # $ $$#</L>
+      <L>###   # ##</L>
+      <L># ..*#.  #</L>
+      <L>#    $ . #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 341" Width="10" Height="15" Copyright="Ljy">
+      <L>   ####</L>
+      <L>####  ####</L>
+      <L>#    $ . #</L>
+      <L>#  ..#.$ #</L>
+      <L>#*#$  #@##</L>
+      <L># #    $#</L>
+      <L>#  ###  #</L>
+      <L>#   $.# #</L>
+      <L>#  ###  #</L>
+      <L># # $ $$#</L>
+      <L>#*#.  # ##</L>
+      <L># ..*#.  #</L>
+      <L>#    $   #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 342" Width="10" Height="15" Copyright="Ljy">
+      <L>   ####</L>
+      <L>####  ####</L>
+      <L>#    $ . #</L>
+      <L>#  ..#.$ #</L>
+      <L>#*#$  #@##</L>
+      <L># #    $#</L>
+      <L>#  ###  #</L>
+      <L>#   $.# #</L>
+      <L>#  #*#  #</L>
+      <L># # $ $$#</L>
+      <L>#*#   # ##</L>
+      <L># ..*#.  #</L>
+      <L>#    $ . #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 343" Width="10" Height="15" Copyright="Ljy">
+      <L>   ####</L>
+      <L>####  ####</L>
+      <L>#    $ . #</L>
+      <L>#  ..#.$ #</L>
+      <L>#*#$  #@##</L>
+      <L># #    $#</L>
+      <L>#  #*#  #</L>
+      <L>#   $.# #</L>
+      <L>#  ###  #</L>
+      <L># # $ $$#</L>
+      <L>#*#   # ##</L>
+      <L># ..*#.  #</L>
+      <L>#    $ . #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 344" Width="11" Height="15" Copyright="Ljy">
+      <L>    ####</L>
+      <L> ####  ####</L>
+      <L> #    $ . #</L>
+      <L> #  ..#.$ #</L>
+      <L> #*#$  #@##</L>
+      <L>## #    $#</L>
+      <L>#  ####  #</L>
+      <L>#    $.* #</L>
+      <L>#  ####  #</L>
+      <L>## # $ $$#</L>
+      <L> #*#   # ##</L>
+      <L> # ..*#.  #</L>
+      <L> #    $ . #</L>
+      <L> ####  ####</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 345" Width="11" Height="15" Copyright="Ljy">
+      <L>    ####</L>
+      <L> ####  ####</L>
+      <L> #    $ . #</L>
+      <L> #  ..#.$ #</L>
+      <L> #*#$  #@##</L>
+      <L>## #    $##</L>
+      <L>#   ###   #</L>
+      <L>#    $.*# #</L>
+      <L>#   ###   #</L>
+      <L>## # $ $$##</L>
+      <L> #*#   # ##</L>
+      <L> # ..*#.  #</L>
+      <L> #    $ . #</L>
+      <L> ####  ####</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 346" Width="11" Height="15" Copyright="Ljy">
+      <L>    ####</L>
+      <L> ####  ####</L>
+      <L> #    $ . #</L>
+      <L> #  ..#.$ #</L>
+      <L> #*#$  #@##</L>
+      <L>## #    $##</L>
+      <L>#  ####   #</L>
+      <L>#    $.** #</L>
+      <L>#  ####   #</L>
+      <L>## # $ $$##</L>
+      <L> #*#   # ##</L>
+      <L> # ..*#.  #</L>
+      <L> #    $ . #</L>
+      <L> ####  ####</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 347" Width="11" Height="15" Copyright="Ljy">
+      <L>    ####</L>
+      <L> ####  ####</L>
+      <L> #    $ . #</L>
+      <L> # ..*#.  #</L>
+      <L> #*#   # ##</L>
+      <L>## # $ $$##</L>
+      <L>#  ####   #</L>
+      <L>#    $.**@#</L>
+      <L>#  ####   #</L>
+      <L>## # $ $$##</L>
+      <L> #*#   # ##</L>
+      <L> # ..*#.  #</L>
+      <L> #    $ . #</L>
+      <L> ####  #  #</L>
+      <L>    #######</L>
+    </Level>
+    <Level Id="Level 348" Width="11" Height="15" Copyright="Ljy">
+      <L>    ####</L>
+      <L> ####  ####</L>
+      <L> #    $ . #</L>
+      <L> # ..*#.  #</L>
+      <L> #*#   # ##</L>
+      <L>## # $ $$##</L>
+      <L>#  ####   #</L>
+      <L>#    $.**@#</L>
+      <L>#  # ##   #</L>
+      <L>## # $ $$##</L>
+      <L> #*#   # ##</L>
+      <L> # ..*#.  #</L>
+      <L> #    $ . #</L>
+      <L> ####  ####</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 349" Width="11" Height="15" Copyright="Ljy">
+      <L>    ####</L>
+      <L> ####  ####</L>
+      <L> #    $ . #</L>
+      <L> # ..*#.  #</L>
+      <L> #*#   # ##</L>
+      <L>## # $ $$##</L>
+      <L>#  ####   #</L>
+      <L>#    $.*#@#</L>
+      <L>#  # ##   #</L>
+      <L>## # $ $$##</L>
+      <L> #*#   # ##</L>
+      <L> # ..*#.  #</L>
+      <L> #    $ . #</L>
+      <L> ####  ####</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 350" Width="11" Height="15" Copyright="Ljy">
+      <L>    ####</L>
+      <L> ####  ####</L>
+      <L> #    $ . #</L>
+      <L> #  .*#.. #</L>
+      <L> #*#   # ##</L>
+      <L>## # $ $$##</L>
+      <L>#  ####   #</L>
+      <L>#    $.*#@#</L>
+      <L>#  # ##   #</L>
+      <L>## # $ $$##</L>
+      <L> #*#   # ##</L>
+      <L> #  .*#.. #</L>
+      <L> #    $ . #</L>
+      <L> ####  ####</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 351" Width="10" Height="15" Copyright="Ljy">
+      <L>   ####</L>
+      <L>####  ####</L>
+      <L>#    $ . #</L>
+      <L># ..*#.  #</L>
+      <L>#*#   # ##</L>
+      <L># # $ $$##</L>
+      <L>#  *##   #</L>
+      <L>#   $.**@#</L>
+      <L>#  *##   #</L>
+      <L># # $ $$##</L>
+      <L>#*#   # ##</L>
+      <L># ..*#.  #</L>
+      <L>#    $ . #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 352" Width="10" Height="15" Copyright="Ljy">
+      <L>   ####</L>
+      <L>####  ####</L>
+      <L>#    $ . #</L>
+      <L># ..*#.  #</L>
+      <L>#*#   # ##</L>
+      <L># # $ $$##</L>
+      <L>#  *##   #</L>
+      <L>#   $.*#@#</L>
+      <L>#  *##   #</L>
+      <L># # $ $$##</L>
+      <L>#*#   # ##</L>
+      <L># ..*#.  #</L>
+      <L>#    $ . #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 353" Width="10" Height="15" Copyright="Ljy">
+      <L>   ####</L>
+      <L>####  ####</L>
+      <L>#    $ . #</L>
+      <L>#  .*#.. #</L>
+      <L>#*#   # ##</L>
+      <L># # $ $$##</L>
+      <L>#  *##   #</L>
+      <L>#   $.*#@#</L>
+      <L>#  *##   #</L>
+      <L># # $ $$##</L>
+      <L>#*#   # ##</L>
+      <L>#  .*#.. #</L>
+      <L>#    $ . #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 354" Width="10" Height="15" Copyright="Ljy, Marek Letrab">
+      <L>   ####</L>
+      <L>####  ####</L>
+      <L>#    $ . #</L>
+      <L>#  .*#.. #</L>
+      <L>###   # ##</L>
+      <L>### $ $$##</L>
+      <L>#  *##   #</L>
+      <L>#   $.*#@#</L>
+      <L>#  *##   #</L>
+      <L>### $ $$##</L>
+      <L>###   # ##</L>
+      <L>#  .*#.. #</L>
+      <L>#    $ . #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 355" Width="11" Height="15" Copyright="Ljy">
+      <L>    ####</L>
+      <L> ####  ####</L>
+      <L> #    $ . #</L>
+      <L> # ..*#.  #</L>
+      <L> #*#   # ##</L>
+      <L>## # $ $$##</L>
+      <L>#   #*#   #</L>
+      <L>#   .$ **@#</L>
+      <L>#   #*#   #</L>
+      <L>## # $ $$##</L>
+      <L> #*#   # ##</L>
+      <L> # ..*#.  #</L>
+      <L> #    $ . #</L>
+      <L> ####  ####</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 356" Width="11" Height="15" Copyright="Ljy">
+      <L>    ####</L>
+      <L> ####  ####</L>
+      <L> #    $ . #</L>
+      <L> #  .*#.. #</L>
+      <L> #*#   # ##</L>
+      <L>## # $ $$##</L>
+      <L>#   #*#   #</L>
+      <L>#   .$ **@#</L>
+      <L>#   #*#   #</L>
+      <L>## # $ $$##</L>
+      <L> #*#   # ##</L>
+      <L> #  .*#.. #</L>
+      <L> #    $ . #</L>
+      <L> ####  ####</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 357" Width="10" Height="15" Copyright="Ljy, Mark">
+      <L>   ####</L>
+      <L>####  ####</L>
+      <L>#    $ . #</L>
+      <L>#   .#.$ #</L>
+      <L>#*#$. #@##</L>
+      <L># #    $#</L>
+      <L>#  ###  #</L>
+      <L>#   $.# #</L>
+      <L>#  ### .#</L>
+      <L># # $ $$#</L>
+      <L>#*#   # ##</L>
+      <L># ..*#.  #</L>
+      <L>#    $   #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 358" Width="10" Height="15" Copyright="Ljy, Mark">
+      <L>   ####</L>
+      <L>####  ####</L>
+      <L>#    $ . #</L>
+      <L>#   .#.$ #</L>
+      <L>#*#$. #@##</L>
+      <L># #    $##</L>
+      <L>#  ###   #</L>
+      <L>#   $.*# #</L>
+      <L>#  ###   #</L>
+      <L># # $ $$##</L>
+      <L>#*#   # ##</L>
+      <L># ..*#.  #</L>
+      <L>#    $ . #</L>
+      <L>####  ####</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="Level 359" Width="11" Height="15" Copyright="Ljy, Mark">
+      <L>    ####</L>
+      <L> ####  ####</L>
+      <L> #    $ . #</L>
+      <L> # ..*#.  #</L>
+      <L> #*#   # ##</L>
+      <L>## # $ $$##</L>
+      <L>#  ##*#   #</L>
+      <L>#  . $.**@#</L>
+      <L>#  ##*#   #</L>
+      <L>## # $ $$##</L>
+      <L> #*#   # ##</L>
+      <L> # ..$#.  #</L>
+      <L> #    $ . #</L>
+      <L> ####  ####</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 360" Width="11" Height="15" Copyright="Ljy, Mark">
+      <L>    ####</L>
+      <L> ####  ####</L>
+      <L> #    $ . #</L>
+      <L> # ..*#.  #</L>
+      <L> #*#   # ##</L>
+      <L>## # $ $$##</L>
+      <L>#   #*#   #</L>
+      <L>#   .$.**@#</L>
+      <L>#   #*#   #</L>
+      <L>## # $ $$##</L>
+      <L> #*#   # ##</L>
+      <L> # ..$#.  #</L>
+      <L> #    $ . #</L>
+      <L> ####  ####</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Level 361" Width="11" Height="15" Copyright="Ljy, Mark">
+      <L>    ####</L>
+      <L> ####  ####</L>
+      <L> #    $ . #</L>
+      <L> #   .#.$ #</L>
+      <L> #*#$. #@##</L>
+      <L>## #    $##</L>
+      <L>#  ####   #</L>
+      <L>#    $.*# #</L>
+      <L>#  ####   #</L>
+      <L>## # $ $$##</L>
+      <L> #*#   # ##</L>
+      <L> # ..*#.  #</L>
+      <L> #    $ . #</L>
+      <L> ####  ####</L>
+      <L>    ####</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

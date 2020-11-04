@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SokobanLevels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="SokobanLev.xsd">
+  <Title>Guichard</Title>
+  <Description>
+Date of Last Change: 2005-11-06 01:59:47  
+
+  </Description>
+  <LevelCollection Copyright="Guichard" MaxWidth="12" MaxHeight="10">
+    <Level Id="In the memory of Cecile 01" Width="6" Height="6">
+      <L>  ###</L>
+      <L>  #.#</L>
+      <L>### ##</L>
+      <L>#  $ #</L>
+      <L># @  #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="In the memory of Cecile 02" Width="6" Height="6">
+      <L>  ###</L>
+      <L>  #.#</L>
+      <L>###*##</L>
+      <L>#  $ #</L>
+      <L># @  #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="In the memory of Cecile 03" Width="9" Height="8">
+      <L> ########</L>
+      <L>##  #   #</L>
+      <L>#   # # #</L>
+      <L>#  .# $ #</L>
+      <L>## ## # #</L>
+      <L> # @    #</L>
+      <L> #  #####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="In the memory of Cecile 04" Width="9" Height="8">
+      <L> ########</L>
+      <L>###     #</L>
+      <L>#   # ###</L>
+      <L>#  .# $ #</L>
+      <L>## ## # #</L>
+      <L> # @    #</L>
+      <L> #  #####</L>
+      <L> ####</L>
+    </Level>
+    <Level Id="In the memory of Cecile 05" Width="7" Height="5">
+      <L>  #####</L>
+      <L>###.$.#</L>
+      <L>#  $@ #</L>
+      <L>#   ###</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="In the memory of Cecile 06" Width="5" Height="7">
+      <L>#####</L>
+      <L>#   #</L>
+      <L>#$# #</L>
+      <L>#.$+#</L>
+      <L>#  ##</L>
+      <L>#  #</L>
+      <L>####</L>
+    </Level>
+    <Level Id="In the memory of Cecile 07" Width="6" Height="7">
+      <L>  ###</L>
+      <L>###+##</L>
+      <L>#  * #</L>
+      <L># $  #</L>
+      <L>## # #</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="In the memory of Cecile 08" Width="6" Height="7">
+      <L>#####</L>
+      <L>#   ##</L>
+      <L># $. #</L>
+      <L>## # #</L>
+      <L># *  #</L>
+      <L>#@ ###</L>
+      <L>####</L>
+    </Level>
+    <Level Id="In the memory of Cecile 09" Width="6" Height="7">
+      <L>#####</L>
+      <L>#   ##</L>
+      <L>#  * #</L>
+      <L>## $.#</L>
+      <L># *  #</L>
+      <L>#@ ###</L>
+      <L>####</L>
+    </Level>
+    <Level Id="In the memory of Cecile 10" Width="6" Height="6">
+      <L>#####</L>
+      <L>#   ##</L>
+      <L>#@#  #</L>
+      <L>#*$. #</L>
+      <L>#    #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="In the memory of Cecile 11" Width="6" Height="6">
+      <L>#####</L>
+      <L>#   ##</L>
+      <L>#+#* #</L>
+      <L>#*$  #</L>
+      <L>#    #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="In the memory of Cecile 12" Width="6" Height="8">
+      <L> #####</L>
+      <L>##   #</L>
+      <L># .$ #</L>
+      <L>#@##.#</L>
+      <L># $.$#</L>
+      <L>## # #</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="In the memory of Cecile 13" Width="6" Height="8">
+      <L>######</L>
+      <L>#    #</L>
+      <L># .$.#</L>
+      <L>#@## #</L>
+      <L># $.$#</L>
+      <L>## # #</L>
+      <L> #   #</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="In the memory of Cecile 14" Width="8" Height="6">
+      <L>########</L>
+      <L>#      #</L>
+      <L># #$$# #</L>
+      <L>#  $.. #</L>
+      <L>####.@##</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="In the memory of Cecile 15" Width="8" Height="6">
+      <L>  #####</L>
+      <L>  #   ##</L>
+      <L>###@#* #</L>
+      <L>#.$*#  #</L>
+      <L>###    #</L>
+      <L>  ######</L>
+    </Level>
+    <Level Id="In the memory of Cecile 16" Width="9" Height="7">
+      <L> ######</L>
+      <L> # .. #</L>
+      <L> # $$ ###</L>
+      <L>###@#   #</L>
+      <L>#  $ .# #</L>
+      <L>#   #   #</L>
+      <L>#########</L>
+    </Level>
+    <Level Id="In the memory of Cecile 17" Width="9" Height="8">
+      <L>   ######</L>
+      <L>   #    #</L>
+      <L>#### ## #</L>
+      <L>#. #$@# #</L>
+      <L>#.. $$# #</L>
+      <L>#  #    #</L>
+      <L>####  ###</L>
+      <L>   ####</L>
+    </Level>
+    <Level Id="In the memory of Cecile 18" Width="8" Height="8">
+      <L>########</L>
+      <L>#      #</L>
+      <L># #### #</L>
+      <L>#    # #</L>
+      <L># .* # #</L>
+      <L>#*#$   #</L>
+      <L># @ ####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Ocean 01" Width="6" Height="8">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>  #  #</L>
+      <L>###. #</L>
+      <L># $$ #</L>
+      <L># #. #</L>
+      <L># @  #</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Ocean 02" Width="6" Height="7">
+      <L>  ####</L>
+      <L>  #  #</L>
+      <L>###  #</L>
+      <L># *$.#</L>
+      <L># #  #</L>
+      <L>#   @#</L>
+      <L>######</L>
+    </Level>
+    <Level Id="Ocean 03" Width="10" Height="7">
+      <L> #####</L>
+      <L> # @ ####</L>
+      <L>## #  . ##</L>
+      <L># $$     #</L>
+      <L>#    #.  #</L>
+      <L>###  #####</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Ocean 04" Width="5" Height="9">
+      <L>####</L>
+      <L>#  #</L>
+      <L>#$.#</L>
+      <L>#  ##</L>
+      <L>#*@ #</L>
+      <L>#   #</L>
+      <L>#.$ #</L>
+      <L>#  ##</L>
+      <L>####</L>
+    </Level>
+    <Level Id="Ocean 05" Width="7" Height="7">
+      <L> #####</L>
+      <L> #   #</L>
+      <L> # # ##</L>
+      <L>## $  #</L>
+      <L>#.*$# #</L>
+      <L>##.@  #</L>
+      <L> ######</L>
+    </Level>
+    <Level Id="Ocean 06" Width="9" Height="7">
+      <L> ########</L>
+      <L> #   @  #</L>
+      <L> #  $$$ #</L>
+      <L>## ## ###</L>
+      <L>#   ...#</L>
+      <L>#   ####</L>
+      <L>#####</L>
+    </Level>
+    <Level Id="Ocean 07" Width="9" Height="9">
+      <L>   #####</L>
+      <L>   #   #</L>
+      <L> ### # ##</L>
+      <L>##   .  #</L>
+      <L>#  #$$# #</L>
+      <L>#  *@.# #</L>
+      <L>### ### #</L>
+      <L>  #     #</L>
+      <L>  #######</L>
+    </Level>
+    <Level Id="Ocean 08" Width="8" Height="7">
+      <L>########</L>
+      <L>#   .  #</L>
+      <L># #$$# #</L>
+      <L># .@*  #</L>
+      <L>#### # #</L>
+      <L>   #   #</L>
+      <L>   #####</L>
+    </Level>
+    <Level Id="Ocean 09" Width="9" Height="7">
+      <L>#####</L>
+      <L>#   #####</L>
+      <L>#   $...#</L>
+      <L>#   ### #</L>
+      <L># $ $@  #</L>
+      <L>###  ####</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Ocean 10" Width="8" Height="9">
+      <L> ####</L>
+      <L> #  ##</L>
+      <L> # $ #</L>
+      <L> # $@#</L>
+      <L>##.#####</L>
+      <L>#    . #</L>
+      <L>#   $  #</L>
+      <L>#####. #</L>
+      <L>    ####</L>
+    </Level>
+    <Level Id="Ocean 11" Width="9" Height="10">
+      <L> #####</L>
+      <L> #   ####</L>
+      <L> # #. . #</L>
+      <L> # . .# #</L>
+      <L> ###$   #</L>
+      <L>##  $@###</L>
+      <L>#  $$##</L>
+      <L>#    #</L>
+      <L>###  #</L>
+      <L>  ####</L>
+    </Level>
+    <Level Id="Ocean 12" Width="10" Height="8">
+      <L>   ####</L>
+      <L>  ##  ####</L>
+      <L>### $....#</L>
+      <L>#  $ $@# #</L>
+      <L># $    # #</L>
+      <L>###  ### #</L>
+      <L>  #      #</L>
+      <L>  ########</L>
+    </Level>
+    <Level Id="Ocean 13" Width="10" Height="8">
+      <L>   ####</L>
+      <L>  ##  ####</L>
+      <L>### $....#</L>
+      <L>#  $ $@# #</L>
+      <L># $    # #</L>
+      <L>### #### #</L>
+      <L>  #      #</L>
+      <L>  ########</L>
+    </Level>
+    <Level Id="Ocean 14" Width="10" Height="8">
+      <L>   ####</L>
+      <L>  ##  ####</L>
+      <L>### $....#</L>
+      <L>#  $ $@# #</L>
+      <L># $   ## #</L>
+      <L>###  ### #</L>
+      <L>  #      #</L>
+      <L>  ########</L>
+    </Level>
+    <Level Id="Ocean 15" Width="10" Height="8">
+      <L>  #####</L>
+      <L> ##   ####</L>
+      <L>##  $....#</L>
+      <L>#  $ #@# #</L>
+      <L># $ $  # #</L>
+      <L>### #### #</L>
+      <L>  #      #</L>
+      <L>  ########</L>
+    </Level>
+    <Level Id="Ocean 16" Width="10" Height="8">
+      <L>   ####</L>
+      <L>  ##  ####</L>
+      <L>### *....#</L>
+      <L>#  $ $@# #</L>
+      <L># $ $  # #</L>
+      <L>###  ### #</L>
+      <L>  #      #</L>
+      <L>  ########</L>
+    </Level>
+    <Level Id="Ocean 17" Width="10" Height="8">
+      <L>   ####</L>
+      <L>  ## .####</L>
+      <L>### *....#</L>
+      <L>#  $ $@# #</L>
+      <L># $ $  # #</L>
+      <L>### $### #</L>
+      <L>  #      #</L>
+      <L>  ########</L>
+    </Level>
+    <Level Id="Ocean 18" Width="10" Height="8">
+      <L>  #####</L>
+      <L>  #  .####</L>
+      <L>### $....#</L>
+      <L>#  $ $@# #</L>
+      <L># $ $ ## #</L>
+      <L>### #### #</L>
+      <L>  #      #</L>
+      <L>  ########</L>
+    </Level>
+    <Level Id="Ocean 19" Width="11" Height="9">
+      <L>    ####</L>
+      <L>   ##  ####</L>
+      <L>  ## *....#</L>
+      <L>### $   # #</L>
+      <L>#  $ $@ # #</L>
+      <L># $   ### #</L>
+      <L>### ##### #</L>
+      <L>  #       #</L>
+      <L>  #########</L>
+    </Level>
+    <Level Id="Ocean 20" Width="11" Height="9">
+      <L>    ####</L>
+      <L>   ##  ####</L>
+      <L>  ## *....#</L>
+      <L>### $ # # #</L>
+      <L>#  $ $@ # #</L>
+      <L># $     # #</L>
+      <L>### ##### #</L>
+      <L>  #       #</L>
+      <L>  #########</L>
+    </Level>
+    <Level Id="Ocean 21" Width="11" Height="9">
+      <L>    ####</L>
+      <L>   ##  ####</L>
+      <L>  ## *....#</L>
+      <L>### $ @.# #</L>
+      <L>#  $ $  # #</L>
+      <L># $   $ # #</L>
+      <L>### ##### #</L>
+      <L>  #       #</L>
+      <L>  #########</L>
+    </Level>
+    <Level Id="Ocean 22" Width="11" Height="10">
+      <L>     ####</L>
+      <L>    ## .###</L>
+      <L>   ## *...#</L>
+      <L>  ## $..# #</L>
+      <L>### $ $ # #</L>
+      <L>#  $ $@.# #</L>
+      <L># $ $   # #</L>
+      <L>### ##### #</L>
+      <L>  #       #</L>
+      <L>  #########</L>
+    </Level>
+    <Level Id="Ocean 23" Width="12" Height="10">
+      <L>     #####</L>
+      <L>    ##  .###</L>
+      <L>   ## *....#</L>
+      <L>  ## $ $.# #</L>
+      <L>### $ $@.# #</L>
+      <L>#  $ # # # #</L>
+      <L># $ $    # #</L>
+      <L>### ###### #</L>
+      <L>  #        #</L>
+      <L>  ##########</L>
+    </Level>
+    <Level Id="Ocean 24" Width="12" Height="9">
+      <L>    ########</L>
+      <L>    #  ....#</L>
+      <L>  ###$ #.# #</L>
+      <L>###     .# #</L>
+      <L># $  #$# # #</L>
+      <L>#@$$   $ # #</L>
+      <L>### ###### #</L>
+      <L>  #        #</L>
+      <L>  ##########</L>
+    </Level>
+    <Level Id="Ocean 25" Width="12" Height="10">
+      <L>     #####</L>
+      <L>    ##  .###</L>
+      <L>    # *....#</L>
+      <L>  ###$ #.# #</L>
+      <L>###@$    # #</L>
+      <L>#  $$# # # #</L>
+      <L>#    $ $ # #</L>
+      <L>### ###### #</L>
+      <L>  #        #</L>
+      <L>  ##########</L>
+    </Level>
+    <Level Id="Ocean 26" Width="12" Height="10">
+      <L>     #####</L>
+      <L>    ##.  ###</L>
+      <L>   ## .....#</L>
+      <L>  ##   #.# #</L>
+      <L>### $  # # #</L>
+      <L>#  $ #$$$# #</L>
+      <L># $    $@# #</L>
+      <L>### ###### #</L>
+      <L>  #        #</L>
+      <L>  ##########</L>
+    </Level>
+    <Level Id="Ocean 27" Width="12" Height="10">
+      <L>      ####</L>
+      <L>    ###  ###</L>
+      <L>   ## ...*.#</L>
+      <L>  ## $ **# #</L>
+      <L>###   $ .# #</L>
+      <L>#    # # # #</L>
+      <L># $   $  # #</L>
+      <L>###$###### #</L>
+      <L>  #       @#</L>
+      <L>  ##########</L>
+    </Level>
+    <Level Id="Ocean 28" Width="12" Height="10">
+      <L>    ######</L>
+      <L>    # *  ###</L>
+      <L>   ## *..*.#</L>
+      <L>  ##  .#.# #</L>
+      <L>###   $# # #</L>
+      <L>#  $ # $$# #</L>
+      <L>#      $@# #</L>
+      <L>### ###### #</L>
+      <L>  #        #</L>
+      <L>  ##########</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

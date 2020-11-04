@@ -25,13 +25,36 @@ class SelectLevelViewController: CustomViewController {
             destination.selectedLevel = indexPath.row
         }
     }
+
+    private func back() {
+        navigationController?.popViewController(animated: true)
+    }
     
     @IBAction func backButtonTapped(_ sender: UIButton) {
-        navigationController?.popViewController(animated: true)
+        back()
+    }
+    
+    override func pressesBegan(_ presses: Set<UIPress>, with event: UIPressesEvent?) {
+        
+        super.pressesBegan(presses, with: event)
+        
+        guard let keyCode = presses.first?.key?.keyCode else { return }
+        
+        switch (keyCode) {
+
+        case .keyboardEscape:
+            back();
+        
+        default:
+            break
+        }
     }
 }
 
+
+
 extension SelectLevelViewController: UITableViewDataSource {
+    
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return LevelManager.shared.worlds[selectedWorld].levels.count
     }

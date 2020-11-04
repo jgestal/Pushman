@@ -19,7 +19,7 @@ class SelectWorldViewController: CustomViewController {
     }
     
     @IBAction func backButtonTapped(_ sender: UIButton) {
-        navigationController?.popViewController(animated: true)
+        back()
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
@@ -27,6 +27,26 @@ class SelectWorldViewController: CustomViewController {
             let indexPath = tableView .indexPath(for: sender as! UITableViewCell)!
             let destination = segue.destination as! SelectLevelViewController
             destination.selectedWorld = indexPath.row
+        }
+    }
+    
+    private func back() {
+        navigationController?.popViewController(animated: true)
+    }
+    
+    override func pressesBegan(_ presses: Set<UIPress>, with event: UIPressesEvent?) {
+        
+        super.pressesBegan(presses, with: event)
+        
+        guard let keyCode = presses.first?.key?.keyCode else { return }
+
+        switch (keyCode) {
+
+        case .keyboardEscape:
+            back();
+        
+        default:
+            break
         }
     }
 }
